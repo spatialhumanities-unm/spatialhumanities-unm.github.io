@@ -12,10 +12,10 @@ css: spatial-humanities
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)  (Stanford)
 
 ## Historical GIS Centers and Networks
-- [Center for Spatially Integrated Social Science](http://csiss.org/))
-- [Great Britain Historical Geographical Information System](http://www.port.ac.uk/research/gbhgis/))
-- [HGIS Carolina](http://www.unc.edu/hgis/index.html)
-- [HGIS Clearinghouse and Forum](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs) (Association of American Geographers)
+- [Center for Spatially Integrated Social Science](http://csiss.org/)
+- [Great Britain Historical Geographical Information System](http://www.port.ac.uk/research/gbhgis/)
+- [HGIS Carolina](http://www.unc.edu/hgis/index.html) 
+- [HGIS Clearinghouse and Forum](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs)
 - [HGIS Research Network](http://www.hgis.org.uk/)
 - [The Polis Center](http://thepoliscenter.iupui.edu)
 - [Spatial Humanities @ Scholar's Lab](http://spatial.scholarslab.org/)
