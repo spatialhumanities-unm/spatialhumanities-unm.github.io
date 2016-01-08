@@ -7,6 +7,9 @@ css: spatial-humanities
 
 # Resources 
 
+## Upcoming Grants
+NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org).
+
 ## Digital Projects
 - [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/about/) (University of North Carolina - Chapel Hill)
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)  (Stanford)
