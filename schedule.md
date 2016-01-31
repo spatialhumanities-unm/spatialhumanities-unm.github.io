@@ -5,10 +5,31 @@ date: 2015-09-18 00:00:00
 css: spatial-humanities
 ---
 
-# Schedule of Meetings
+# Upcoming Meetings
 
-All meetings will be held at 2:00 p.m. in Mesa Vista Hall 1104 (History Department Common Room).
-Meetings will last about an hour, but feel free to arrive late or leave early as your schedule permits.
+All meetings (unless otherwise noted) will be held at 1:00 p.m. in Mesa Vista Hall 1104 (History Department Common Room).
+Meetings will last about an hour, but feel free to arrive late or leave early as your schedule permits. Bring lunch. Even if you just want to hang out, eat, and listen, you are more than welcome!
+
+## February 4: NEH Application Discussion
+We will discuss our long-term plans for the working group and spatial humanities at UNM. In particular, we will discuss a Humanities Initiatives at Hispanic-Serving Institutions (HI-HSI) application that we are preparing to submit to the National Endowment for the Humanities (NEH) in June 2016.
+
+
+## February 19: Cameron Blevins, Rutgers University
+This week, we will have a guest presenter, Cameron Blevins, who is an Andrew W. Mellon Post-Doctoral Fellow in the History Department at Rutgers University. We will pre-circulate this piece for comment and discussion. 
+
+
+## March 24: Classic Readings on Space and Place
+For our third meeting, we will discuss several cornerstone texts in critical spatial theory. The exact readings will be announced and pre-circulated in early March.
+
+
+## April 21: Guy McClellan, University of New Mexico
+For this meeting, we will discuss a current writing project of Guy McClellan, a PhD Student in the History Department at UNM. We will pre-circulate this piece for comment and discussion. 
+
+
+## May 12: Readings and End-of-year Celebration
+No agenda yet for our last meeting of the semester. But it will be good. Don't miss it!
+
+# Previous Meetings
 
 ## Oct 16: Common Readings
 (1) Ayers, Edward L. “Turning toward Place, Space, and Time.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 1–13. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=20&docID=10767195&tm=1444058662437) | [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_1))
