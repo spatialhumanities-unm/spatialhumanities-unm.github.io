@@ -13,7 +13,7 @@ We meet (normally Thursdays at 1:00; exceptions noted below) in Mesa Vista Hall 
 We will discuss our long-term plans for the working group and spatial humanities at UNM. In particular, we will discuss a Humanities Initiatives at Hispanic-Serving Institutions (HI-HSI) application that we are preparing to submit to the National Endowment for the Humanities (NEH) in June 2016.
 
 
-## February 19 (FRI, 1:00): Cameron Blevins, Rutgers University
+## February 19 (FRI, 2:00): Cameron Blevins, Rutgers University
 This week, we will have a guest presenter, Cameron Blevins, who is an Andrew W. Mellon Post-Doctoral Fellow in the History Department at Rutgers University. We will pre-circulate this piece for comment and discussion. 
 
 
