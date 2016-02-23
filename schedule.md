@@ -18,7 +18,7 @@ This week, we will have a guest presenter, Cameron Blevins, who is an Andrew W. 
 
 
 ## March 24 (2:30): Classic Readings on Space and Place
-For our third meeting, we will discuss several cornerstone texts in critical spatial theory. The exact readings will be announced and pre-circulated in early March.
+For our third meeting, we will discuss several cornerstone texts in critical spatial theory.
 
 Foucault, Michel. 2007. "[The language of space](http://libproxy.unm.edu/login?url=http://site.ebrary.com/lib/unma/reader.action?ppg=176&docID=10211083&tm=1455751585105)." In Space, knowledge and power,edited by Jeremy W. Crampton and Stuart Elden, 163-168. Surrey: Ashgate.
 
