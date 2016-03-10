@@ -7,7 +7,7 @@ css: spatial-humanities
 
 # Resources 
 
-## Upcoming Grants
+## Upcoming Grants Opportunities
 NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org).
 
 ## Digital Projects
@@ -15,6 +15,7 @@ NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)  (Stanford)
 
 ## Historical GIS Centers and Networks
+- [Space and Soverignty Working Group](https://huminst.osu.edu/news/space-and-sovereignty-working-group)
 - [Center for Spatially Integrated Social Science](http://csiss.org/)
 - [Great Britain Historical Geographical Information System](http://www.port.ac.uk/research/gbhgis/)
 - [HGIS Carolina](http://www.unc.edu/hgis/index.html) 
