@@ -23,7 +23,7 @@ NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping
 - [HGIS Research Network](http://www.hgis.org.uk/)
 - [The Polis Center](http://thepoliscenter.iupui.edu)
 - [Spatial Humanities @ Scholar's Lab](http://spatial.scholarslab.org/)
-
+- [S4 Spatial Structures in the Social Sciences (Brown University)](http://www.s4.brown.edu/)
 
 ## GIS Data (by country)
 
