@@ -48,7 +48,7 @@ NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping
 ### QGIS
 - [FOSS4G](http://foss4geo.org)
 - [QGIS Website](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS)
-- [Basic map-making with QGIS](http://fredgibbs.net/tutorials/making-a-map-with-qgis/)
+- [Basic map-making with QGIS](http://fredgibbs.net/tutorials/qgis/making-a-map-with-qgis/)
 
 ### Online Maps
 - [Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
