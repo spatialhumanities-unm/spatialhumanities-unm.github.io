@@ -12,19 +12,19 @@ NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping
 
 ## Digital Projects
 - [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/about/) (University of North Carolina - Chapel Hill)
-- [Atlas Digital da América Lusa] (http://lhs.unb.br/atlas/In%C3%ADcio) (Universidade de Brasília [UNB])
-- [Hímaco] (http://www2.unifesp.br/himaco/) (Universidade Federal de São Paulo [UNIFESP])
-- [Imagine Rio] (http://hrc.rice.edu/imagineRio/) (Rice University)
-- [Map of Early Modern London] (https://mapoflondon.uvic.ca/) (University of Victoria)
-- [Mapping Bahia] (http://www.mappingbahia.org/project/) (College of Wooster)
+- [Atlas Digital da América Lusa](http://lhs.unb.br/atlas/In%C3%ADcio) (Universidade de Brasília [UNB])
+- [Hímaco](http://www2.unifesp.br/himaco/) (Universidade Federal de São Paulo [UNIFESP])
+- [Imagine Rio](http://hrc.rice.edu/imagineRio/) (Rice University)
+- [Map of Early Modern London](https://mapoflondon.uvic.ca/) (University of Victoria)
+- [Mapping Bahia](http://www.mappingbahia.org/project/) (College of Wooster)
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) (Stanford University)
-- [Visualizing Emancipation] (http://dsl.richmond.edu/emancipation/) (University of Richmond)
+- [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (University of Richmond)
 
 ## Historical GIS Centers and Networks
 - [Center for Spatially Integrated Social Science](http://csiss.org/)
-- [Digital Innovation Lab] (http://digitalinnovation.unc.edu/projects/dhpress/) (University of North Carolina - Chapel Hill)
+- [Digital Innovation Lab](http://digitalinnovation.unc.edu/projects/dhpress/) (University of North Carolina - Chapel Hill)
 - [Great Britain Historical Geographical Information System](http://www.port.ac.uk/research/gbhgis/)
-- [gvSIG Association] (http://www.gvsig.com/en)
+- [gvSIG Association](http://www.gvsig.com/en)
 - [HGIS Carolina](http://www.unc.edu/hgis/index.html) 
 - [HGIS Clearinghouse and Forum](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs)
 - [HGIS Research Network](http://www.hgis.org.uk/)
