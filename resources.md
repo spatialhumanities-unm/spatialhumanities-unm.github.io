@@ -15,8 +15,10 @@ NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping
 - [Atlas Digital da América Lusa](http://lhs.unb.br/atlas/In%C3%ADcio) (Universidade de Brasília [UNB])
 - [Hímaco](http://www2.unifesp.br/himaco/) (Universidade Federal de São Paulo [UNIFESP])
 - [Imagine Rio](http://hrc.rice.edu/imagineRio/) (Rice University)
+- [Irish Speakers & the Empire City](http://www.nyuirish.net/irishlanguagehistory/)
 - [Map of Early Modern London](https://mapoflondon.uvic.ca/) (University of Victoria)
 - [Mapping Bahia](http://www.mappingbahia.org/project/) (College of Wooster)
+- [OpenStreetMap Ireland](http://www.openstreetmap.ie/)
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) (Stanford University)
 - [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (University of Richmond)
 
