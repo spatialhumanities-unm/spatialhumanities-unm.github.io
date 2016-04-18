@@ -11,6 +11,7 @@ css: spatial-humanities
 NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org).
 
 ## Digital Projects
+- [American Panorama](http://dsl.richmond.edu/panorama/) (University of Richmond)
 - [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/about/) (University of North Carolina - Chapel Hill)
 - [Atlas Digital da América Lusa](http://lhs.unb.br/atlas/In%C3%ADcio) (Universidade de Brasília [UNB])
 - [Hímaco](http://www2.unifesp.br/himaco/) (Universidade Federal de São Paulo [UNIFESP])
