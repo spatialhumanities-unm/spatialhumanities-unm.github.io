@@ -47,6 +47,13 @@ NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping
 ### Brazil
 - [Infraestrutura Nacional de Dados Espaciais](http://www.inde.gov.br/inde-home)
 - [Instituto Brasileiro de Geografia e Estatística](http://mapas.ibge.gov.br/interativos/arquivos/downloads)
+- [Serviço Geológico do Brasil](http://geobank.cprm.gov.br/)
+
+### Chile
+- [Instituto Geográfico Militar](https://www.igm.cl/#*)
+
+### Colombia
+- [Instituto Geográfico Agustín Codazzi](http://www.igac.gov.co/igac)
 
 ### US
 - [National Historical Geographic Information System](https://www.nhgis.org/)
