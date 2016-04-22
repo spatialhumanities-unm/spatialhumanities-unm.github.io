@@ -7,8 +7,9 @@ css: spatial-humanities
 
 # Resources 
 
-## Upcoming Grants Opportunities
-NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org).
+## Upcoming Conferences & Funding Opportunities
+- International Workshop and Conference, [Creating Spatial Historical Knowledge](https://networks.h-net.org/node/73374/announcements/120531/creating-spatial-historical-knowledge-new-approaches), at the [German Historical Institute Washington](http://www.ghi-dc.org/); proposals due May 15, 2016.
+- NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org); Jul 11-Aug 12, 2016.
 
 ## Digital Projects
 - [American Panorama](http://dsl.richmond.edu/panorama/) (University of Richmond)
