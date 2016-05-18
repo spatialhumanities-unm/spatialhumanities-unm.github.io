@@ -8,7 +8,8 @@ css: spatial-humanities
 # Resources 
 
 ## Upcoming Conferences & Funding Opportunities
-- [To the Ends of the Earth Conference](http://www.library.upenn.edu/exhibits/ends_of_the_earth.html), at the University of Pennsylvania; March 2-4, 2017 (proposals due July 1, 2016)
+- [International Conference on the History of Cartography](http://www.fafich.ufmg.br/ichc2017/), Belo Horizonte, Brazil; 9-14 July 2017 (abstracts due Oct 15, 2016)
+- [To the Ends of the Earth Conference](http://www.library.upenn.edu/exhibits/ends_of_the_earth.html), at the University of Pennsylvania; Mar 2-4, 2017 (proposals due Jul 1, 2016)
 - International Workshop and Conference, [Creating Spatial Historical Knowledge](https://networks.h-net.org/node/73374/announcements/120531/creating-spatial-historical-knowledge-new-approaches), at the [German Historical Institute Washington](http://www.ghi-dc.org/); proposals due May 15, 2016.
 - NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org); Jul 11-Aug 12, 2016.
 
