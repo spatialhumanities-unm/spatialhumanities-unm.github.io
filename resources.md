@@ -39,6 +39,9 @@ css: spatial-humanities
 - [Space and Soverignty Working Group](https://huminst.osu.edu/news/space-and-sovereignty-working-group)
 - [Spatial Humanities @ Scholar's Lab](http://spatial.scholarslab.org/)
 
+## Digital Map Collections
+- [Map History / History of Cartography](http://www.maphistory.info/imagelarge.html#bne)
+
 ## GIS Data (by country)
 
 ### World
