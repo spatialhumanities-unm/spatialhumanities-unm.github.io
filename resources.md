@@ -25,6 +25,7 @@ css: spatial-humanities
 - [OpenStreetMap Ireland](http://www.openstreetmap.ie/)
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) (Stanford University)
 - [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (University of Richmond)
+- [World Map](http://about.worldmap.harvard.edu/) (Harvard University)
 
 ## Historical GIS Centers and Networks
 - [Center for Spatially Integrated Social Science](http://csiss.org/)
