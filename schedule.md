@@ -23,11 +23,9 @@ For this meeting, we will discuss a current writing project of Guy McClellan, a 
 ## March 24 (2:30): Classic Readings on Space and Place
 For our third meeting, we will discuss several cornerstone texts in critical spatial theory.
 
-Foucault, Michel. 2007. "[The language of space](http://libproxy.unm.edu/login?url=http://site.ebrary.com/lib/unma/reader.action?ppg=176&docID=10211083&tm=1455751585105)." In Space, knowledge and power,edited by Jeremy W. Crampton and Stuart Elden, 163-168. Surrey: Ashgate.
-
-Foucault, Michel. 1986. "[Of other spaces](http://libproxy.unm.edu/login?url=http://search.proquest.com/docview/1297883411/fulltext/B3C31C2C219B418FPQ/1?accountid=14613)." Diacritics 16 (1):22-27.
-
-Soja, Edward W. 1995. "[Heterotopologies: a remembrance of other spaces in the citadel-LA](Soja-Heterotopologies.pdf)." In Postmodern cities and spaces, edited by Sophie Watson and Katherine Gibson, 13-34. Oxford: Blackwell.
+- Foucault, Michel. 2007. "[The language of space](http://libproxy.unm.edu/login?url=http://site.ebrary.com/lib/unma/reader.action?ppg=176&docID=10211083&tm=1455751585105)." In Space, knowledge and power,edited by Jeremy W. Crampton and Stuart Elden, 163-168. Surrey: Ashgate.
+- Foucault, Michel. 1986. "[Of other spaces](http://libproxy.unm.edu/login?url=http://search.proquest.com/docview/1297883411/fulltext/B3C31C2C219B418FPQ/1?accountid=14613)." Diacritics 16 (1):22-27.
+- Soja, Edward W. 1995. "[Heterotopologies: a remembrance of other spaces in the citadel-LA](Soja-Heterotopologies.pdf)." In Postmodern cities and spaces, edited by Sophie Watson and Katherine Gibson, 13-34. Oxford: Blackwell.
 
 ## February 19 (FRI, 2:00): Cameron Blevins, Rutgers University
 This week, we will have a guest presenter, Cameron Blevins, who is an Andrew W. Mellon Post-Doctoral Fellow in the History Department at Rutgers University. We will pre-circulate this piece for comment and discussion. 
