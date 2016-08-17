@@ -6,11 +6,10 @@ css: spatial-humanities
 ---
 
 
-
-We meet about 1 hour per month, normally the 3rd Tuesdays 1:00; exceptions noted below) in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. Bring lunch. Even if you just want to hang out, eat, and listen, you are more than welcome!
-
 # Upcoming Meetings (Fall 2016)
-As the Fall semester gets underway, we are in the process of scheduling our Fall 2016 events; we will list our calendar here once finalized.
+As the Fall semester gets underway, we are in the process of scheduling our Fall 2016 events; we will list our calendar here once finalized. Our tentative plan is to meet the third Tuesday of every month from 2-3pm.
+
+We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. Even if you just want to hang out and listen, you are more than welcome!
 
 
 # Previous Meetings (2015-16)
@@ -45,21 +44,16 @@ In our effort to canvas a broad range of thinking about space, this week we'll r
 
 
 ## Nov 20: Common Readings
-(1) Lock, Gary. “Representations of Space and Place in the Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 89–108. Bloomington: Indiana University Press, 2010. [[LINK 1](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_89)] | [[LINK 2](http://site.ebrary.com/lib/unma/reader.action?ppg=108&docID=10767195&tm=1447282816201)]
-
-(2) Gupta, Akhil, and James Ferguson. “Beyond "Culture": Space, Identity, and the Politics of Difference.” In Culture, Power, Place: Explorations in Critical Anthropology. Edited by Akhil Gupta and James Ferguson, 33–51. Durham: Duke University Press, 1997. [[PDF](Gupta_Ferguson.pdf)]
+- Lock, Gary. “Representations of Space and Place in the Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 89–108. Bloomington: Indiana University Press, 2010. [[LINK 1](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_89)] | [[LINK 2](http://site.ebrary.com/lib/unma/reader.action?ppg=108&docID=10767195&tm=1447282816201)]
+- Gupta, Akhil, and James Ferguson. “Beyond "Culture": Space, Identity, and the Politics of Difference.” In Culture, Power, Place: Explorations in Critical Anthropology. Edited by Akhil Gupta and James Ferguson, 33–51. Durham: Duke University Press, 1997. [[PDF](Gupta_Ferguson.pdf)]
 
 
 ## Oct 16: Common Readings
-(1) Ayers, Edward L. “Turning toward Place, Space, and Time.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 1–13. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=20&docID=10767195&tm=1444058662437) | [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_1))
- 
-(2) Bodenhamer, David. “The Potential of Spatial Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 14–30. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=33&docID=10767195&tm=1444058724558) | [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_14))
- 
-(3) Blevins, Cameron. “Space, Nation, and the Triumph of Region: A View of the World from Houston.” Journal of American History 101, no. 1 (2014): 122–147. ([LINK](http://jah.oxfordjournals.org/content/101/1/122.full?ijkey=unucsImiwNrelaF&keytype=ref) | [ONLINE COMPONENT](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93))
- 
 The first two readings are broad discussions of spatial humanities, while the last one is a particular case study. Each of the readings is linked above, but if you have any trouble accessing the readings, please email one of us and we’ll be sure to make sure you get a copy. For the Blevins reading, be sure to check out the online component, which has a detailed explanation of the interactive maps that accompany the article.
 
+- Ayers, Edward L. “Turning toward Place, Space, and Time.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 1–13. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=20&docID=10767195&tm=1444058662437) | [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_1))
 
-
-
-
+- Bodenhamer, David. “The Potential of Spatial Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 14–30. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=33&docID=10767195&tm=1444058724558) | [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_14))
+ 
+- Blevins, Cameron. “Space, Nation, and the Triumph of Region: A View of the World from Houston.” Journal of American History 101, no. 1 (2014): 122–147. ([LINK](http://jah.oxfordjournals.org/content/101/1/122.full?ijkey=unucsImiwNrelaF&keytype=ref) | [ONLINE COMPONENT](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93))
+ 
