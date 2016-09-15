@@ -11,13 +11,32 @@ As the Fall semester gets underway, we are in the process of scheduling our Fall
 
 We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. Even if you just want to hang out and listen, you are more than welcome!
 
+## September 20 (2:00): Sam Truett, History, UNM
+
+### Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World
+
+This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.
+
+
+
+## October 18 (2:00): Victor Oneschuck, History, UNM 
+Title and Abstract Coming Soon!
+
+
+## November 15 (2:00):  Julie Williams, English, UNM
+
+### Creating Space: The Influence of Health and Environment in Literary Walking Philosophies
+
+Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. 
+
+
 
 # Previous Meetings (2015-16)
 
 ## May 12 (1:00): NEH Grant Discussion
 We'll discuss final ideas for the NEH grant to expand the operations of the Spatial Humanities Working Group.
 
-## April 21 (1:00): Guy McClellan, University of New Mexico
+## April 21 (1:00): Guy McClellan, History, UNM
 For this meeting, we will discuss a current writing project of Guy McClellan, a PhD Student in the History Department at UNM. We will pre-circulate this piece for comment and discussion. 
 
 ## March 24 (2:30): Classic Readings on Space and Place
