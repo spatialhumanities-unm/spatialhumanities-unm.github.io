@@ -1,17 +1,12 @@
 ---
-layout: spatial-humanities
+layout: default
 title: Spatial Humanities Working Group Resources
 date: 2015-09-18 00:00:00
 css: spatial-humanities
 ---
 
-# Resources 
+# Spatial Humanities Resources 
 
-## Upcoming Conferences & Funding Opportunities
-- [International Conference on the History of Cartography](http://www.fafich.ufmg.br/ichc2017/), Belo Horizonte, Brazil; 9-14 July 2017 (abstracts due Oct 15, 2016)
-- [To the Ends of the Earth Conference](http://www.library.upenn.edu/exhibits/ends_of_the_earth.html), at the University of Pennsylvania; Mar 2-4, 2017 (proposals due Jul 1, 2016)
-- International Workshop and Conference, [Creating Spatial Historical Knowledge](https://networks.h-net.org/node/73374/announcements/120531/creating-spatial-historical-knowledge-new-approaches), at the [German Historical Institute Washington](http://www.ghi-dc.org/); proposals due May 15, 2016.
-- NEH Summer Seminar, [Mapping, Text, and Travel](https://www.newberry.org/mapping-text-and-travel), at the [Newberry Library](https://www.newberry.org); Jul 11-Aug 12, 2016.
 
 ## Digital Projects
 - [American Panorama](http://dsl.richmond.edu/panorama/) (University of Richmond)
@@ -26,6 +21,7 @@ css: spatial-humanities
 - [Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) (Stanford University)
 - [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/) (University of Richmond)
 - [World Map](http://about.worldmap.harvard.edu/) (Harvard University)
+
 
 ## Historical GIS Centers and Networks
 - [Center for Spatially Integrated Social Science](http://csiss.org/)
@@ -42,6 +38,7 @@ css: spatial-humanities
 
 ## Digital Map Collections
 - [Map History / History of Cartography](http://www.maphistory.info/imagelarge.html#bne)
+
 
 ## GIS Data (by country)
 
@@ -71,9 +68,10 @@ css: spatial-humanities
 ## Tutorials
 
 ### QGIS
-- [FOSS4G](http://foss4geo.org)
-- [QGIS Website](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS)
 - [Basic map-making with QGIS](http://fredgibbs.net/tutorials/qgis/making-a-map-with-qgis/)
+- [QGIS Website](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS)
+- [FOSS4G](http://foss4geo.org)
+
 
 ### Online Maps
 - [Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)

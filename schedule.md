@@ -1,75 +1,223 @@
 ---
-layout: spatial-humanities
+layout: default
 title: Spatial Humanities Working Group Schedule
 date: 2015-09-18 00:00:00
 css: spatial-humanities
 ---
 
+<div class="container">
 
-# Upcoming Meetings (Fall 2016)
-As the Fall semester gets underway, we are in the process of scheduling our Fall 2016 events; we will list our calendar here once finalized. Our tentative plan is to meet the third Tuesday of every month from 2-3pm.
+	<div class="row">
+		<h1>Upcoming Meetings (Fall 2016)</h1>
+		<p>We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. While we encourage everyone to participate in the conversation, you are more than welcome to simply hang out and listen!
 
-We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. Even if you just want to hang out and listen, you are more than welcome!
+		Most meetings are scheduled for the third Tuesday of every month from 2-3pm.</p>
+	</div>
 
-## September 20 (2:00): Sam Truett, History, UNM
-
-### Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World
-
-This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.
-
-
-
-## October 18 (2:00): Victor Oneschuck, History, UNM 
-Title and Abstract Coming Soon!
-
-
-## November 15 (2:00):  Julie Williams, English, UNM
-
-### Creating Space: The Influence of Health and Environment in Literary Walking Philosophies
-
-Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. 
-
-
-
-# Previous Meetings (2015-16)
-
-## May 12 (1:00): NEH Grant Discussion
-We'll discuss final ideas for the NEH grant to expand the operations of the Spatial Humanities Working Group.
-
-## April 21 (1:00): Guy McClellan, History, UNM
-For this meeting, we will discuss a current writing project of Guy McClellan, a PhD Student in the History Department at UNM. We will pre-circulate this piece for comment and discussion. 
-
-## March 24 (2:30): Classic Readings on Space and Place
-For our third meeting, we will discuss several cornerstone texts in critical spatial theory.
-
-- Foucault, Michel. 2007. "[The language of space](http://libproxy.unm.edu/login?url=http://site.ebrary.com/lib/unma/reader.action?ppg=176&docID=10211083&tm=1455751585105)." In Space, knowledge and power,edited by Jeremy W. Crampton and Stuart Elden, 163-168. Surrey: Ashgate.
-- Foucault, Michel. 1986. "[Of other spaces](http://libproxy.unm.edu/login?url=http://search.proquest.com/docview/1297883411/fulltext/B3C31C2C219B418FPQ/1?accountid=14613)." Diacritics 16 (1):22-27.
-- Soja, Edward W. 1995. "[Heterotopologies: a remembrance of other spaces in the citadel-LA](Soja-Heterotopologies.pdf)." In Postmodern cities and spaces, edited by Sophie Watson and Katherine Gibson, 13-34. Oxford: Blackwell.
-
-## February 19 (FRI, 2:00): Cameron Blevins, Rutgers University
-This week, we will have a guest presenter, Cameron Blevins, who is an Andrew W. Mellon Post-Doctoral Fellow in the History Department at Rutgers University. We will pre-circulate this piece for comment and discussion. 
-
-## February 4 (1:00): NEH Application Discussion
-We will discuss our long-term plans for the working group and spatial humanities at UNM. In particular, we will discuss a Humanities Initiatives at Hispanic-Serving Institutions (HI-HSI) application that we are preparing to submit to the National Endowment for the Humanities (NEH) in June 2016.
-
-## Dec 11: Common Readings
-In our effort to canvas a broad range of thinking about space, this week we'll read the introduction and two chapters from _The Anomie of the Earth: Philosophy, Politics, and Autonomy in Europe and the Americas._ Edited by Federico Luisetti, John Pickles, and Wilson Kaiser. Durham: Duke University Press, 2015. [LINK](http://unm.eblib.com/patron/FullRecord.aspx?p=2055742)
-
-- Luisetti, Federico, John Pickles, and Wilson Kaiser. “Autonomy: Political Theory/Political Anthropology,” p. 1-21 (Introduction)
-- Reyes, Álvaro, and Mara Kaufman. “Sovereignty, Indigeneity, Territory: Zapatista Autonomy and the New Practices of Decolonization,” p. 44-68 (Chapter 2)
-- Byrd, Jodi A. “Mind the Gap: Indigenous Sovereignty and the Antinomies of Empire,” p. 119-36 (Chapter 5)
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>20<br>
+			September<br>
+			2:00</h4>
+	</div>
+	<div class="col-sm-12 col-lg-7">
+		<h3>Sam Truett, History, UNM</h3>
+		<h2>Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World</h2>
+		<p class="abstract">This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.</p>
+	</div>
+	<div class="col-lg-3">
+	  <img src="images/samuel-truett-poster.png" width="100%" class="talk-poster">
+	</div>
+	</div>
 
 
-## Nov 20: Common Readings
 
-- Lock, Gary. “Representations of Space and Place in the Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 89–108. Bloomington: Indiana University Press, 2010. [[LINK 1](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_89)] \| [[LINK 2](http://site.ebrary.com/lib/unma/reader.action?ppg=108&docID=10767195&tm=1447282816201)]
-- Gupta, Akhil, and James Ferguson. “Beyond "Culture": Space, Identity, and the Politics of Difference.” In Culture, Power, Place: Explorations in Critical Anthropology. Edited by Akhil Gupta and James Ferguson, 33–51. Durham: Duke University Press, 1997. [[PDF](Gupta_Ferguson.pdf)]
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>18<br>October<br>2:00</h4>
+	</div>
+	<div class="col-sm-12 col-lg-7">
+		<h3>Victor Oneschuck, History, UNM </h3>
+		<h2>Mapping the Andean Cordillera: Land Grants and Timber under Pinochet's Welfare State</h2>
+		<p class="abstract">From 1962 to 1973 the Chilean government instituted an agrarian reform, during which it distributed fundos (large land tracts) to rural workers. This project examines an indigenous cooperative that received 22 fundos covering approximately 1,063 square miles, only to have them sold under a subsequent military dictatorship in the 1970s and 1980s. In this talk, I examine this struggle, which is frequently framed as class conflict or interethnic conflict, via the environmental and spatial factors that shaped it.</p>
+	</div>
+	<div class="col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
 
 
-## Oct 16: Common Readings
-The first two readings are broad discussions of spatial humanities, while the last one is a particular case study. Each of the readings is linked above, but if you have any trouble accessing the readings, please email one of us and we’ll be sure to make sure you get a copy. For the Blevins reading, be sure to check out the online component, which has a detailed explanation of the interactive maps that accompany the article.
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>15<br>November<br>2:00</h4>
+	</div>
+	<div class="col-sm-12 col-lg-7">
+		<h3>Julie Williams, English, UNM</h3>
+		<h2>Creating Space: The Influence of Health and Environment in Literary Walking Philosophies</h2>
+		<p class="abstract">Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. </p>
+	</div>
+	<div class="col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
 
-- Ayers, Edward L. “Turning toward Place, Space, and Time.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 1–13. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=20&docID=10767195&tm=1444058662437) \| [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_1))
-- Bodenhamer, David. “The Potential of Spatial Humanities.” In The Spatial Humanities: GIS and the Future of Humanities Scholarship. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 14–30. Bloomington: Indiana University Press, 2010. ([LINK 1](http://site.ebrary.com/lib/unma/reader.action?ppg=33&docID=10767195&tm=1444058724558) \| [LINK 2](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_14))
-- Blevins, Cameron. “Space, Nation, and the Triumph of Region: A View of the World from Houston.” Journal of American History 101, no. 1 (2014): 122–147. ([LINK](http://jah.oxfordjournals.org/content/101/1/122.full?ijkey=unucsImiwNrelaF&keytype=ref) \| [ONLINE COMPONENT](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93))
- 
+
+	<h1>Previous Meetings (2015-16)</h1>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>12 May</h3>
+		<h3>1:00</h3>
+	</div>
+	<div class="col-sm-12 col-md-10">
+		<h3>Everyone</h3>
+		<h2>NEH Grant Discussion</h2>
+		<p class="abstract">We'll discuss final ideas for the NEH grant to expand the operations of the Spatial Humanities Working Group. </p>
+	</div>
+	<div class="col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>21 April</h3>
+		<h3>1:00</h3>
+	</div>
+	<div class="col-sm-12 col-lg-7">
+		<h3>Guy McClellan, History, UNM</h3>
+		<h2>Urban in Nature: Yosemite Valley as Metropolis, 1963-1970</h2>
+		<p class="abstract">We will discuss a current writing project of Guy McClellan, a PhD Student in the History Department at UNM. We will pre-circulate this piece for comment and discussion.</p>
+	</div>
+	<div class="col-lg-3">
+	  <img src="images/guy-mcclellan-poster.png" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>24 March</h3>
+		<h3>2:30</h3>
+	</div>
+	<div class="col-sm-12 col-md-10">
+		<h3>Everyone</h3>
+		<h2>Classic Readings on Space and Place</h2>
+		<p class="abstract">We will discuss several cornerstone texts in critical spatial theory.
+		<ul>
+		<li>Foucault, Michel. 2007. <a href="http://libproxy.unm.edu/login?url=http://site.ebrary.com/lib/unma/reader.action?ppg=176&docID=10211083&tm=1455751585105)">The language of space</a> In <i>Space, Knowledge and Power</i>, edited by Jeremy W. Crampton and Stuart Elden, 163-168. Surrey: Ashgate.</li>
+
+		<li>Foucault, Michel. 1986. "<a href="http://libproxy.unm.edu/login?url=http://search.proquest.com/docview/1297883411/fulltext/B3C31C2C219B418FPQ/1?accountid=14613">Of other spaces</a>. <i>Diacritics</i> 16 (1):22-27.</li>
+		
+		<li>Soja, Edward W. 1995. <a href="Soja-Heterotopologies.pdf">Heterotopologies: a remembrance of other spaces in the citadel-LA</a>. In <i>Postmodern Cities and Spaces</i>, edited by Sophie Watson and Katherine Gibson, 13-34. Oxford: Blackwell.</li>
+		</ul>
+		</p>
+	</div>
+	<div class="col-md-0">
+	  <img src="" width="100%" style="box-shadow: 3px 3px 5px grey;">
+	</div>
+	</div>
+
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>19 February</h3>
+		<h3>2:00</h3>
+	</div>
+	<div class="col-sm-12 col-md-7">
+		<h3>Cameron Blevins, Rutgers University</h3>
+		<h2>The Postal West</h2>
+		<p class="abstract">The integration of the American West during late nineteenth century was one of the largest reorganizations of land, resources, and people in American history. How did this integrative project take place so quickly across such a massive area of territory? "The Postal West" uses digital mapping to advance a new spatial synthesis of regional development, one that unfolded across the underlying infrastructure of the U.S. Post. Workshop participants will read and comment on a pre-circulated chapter from this ongoing book project.</p>
+	</div>
+	<div class="col-lg-3">
+	  <img src="images/cameron-blevins-poster.jpg" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>04 February</h3>
+		<h3>1:00</h3>
+	</div>
+	<div class="col-sm-12 col-md-10">
+		<h3>Everyone</h3>
+		<h2>NEH Application Discussion</h2>
+		<p class="abstract">We will discuss our long-term plans for the working group and spatial humanities at UNM. In particular, we will discuss a Humanities Initiatives at Hispanic-Serving Institutions (HI-HSI) application that we are preparing to submit to the National Endowment for the Humanities (NEH) in June 2016.</p>
+	</div>
+	<div class="col-md-0">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>11 December</h3>
+		<h3>1:00</h3>
+	</div>
+	<div class="col-sm-12 col-md-10">
+		<h3>Everyone</h3>
+		<h2>Common Readings</h2>
+		<p class="abstract">In our effort to canvas a broad range of thinking about space, this week we'll read the <a href="http://unm.eblib.com/patron/FullRecord.aspx?p=2055742">introduction and two chapters</a> from <i>The Anomie of the Earth: Philosophy, Politics, and Autonomy in Europe and the Americas.</i> Edited by Federico Luisetti, John Pickles, and Wilson Kaiser. Durham: Duke University Press, 2015.
+		<ul>
+		<li>Luisetti, Federico, John Pickles, and Wilson Kaiser. “Autonomy: Political Theory/Political Anthropology,” p. 1-21 (Introduction)</li>
+		<li>Reyes, Álvaro, and Mara Kaufman. “Sovereignty, Indigeneity, Territory: Zapatista Autonomy and the New Practices of Decolonization,” p. 44-68 (Chapter 2)</li>
+		<li>Byrd, Jodi A. “Mind the Gap: Indigenous Sovereignty and the Antinomies of Empire,” p. 119-36 (Chapter 5)</li>
+		</ul>
+		</p>
+	</div>
+	<div class="col-md-0">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>20 November</h3>
+		<h3>1:00</h3>
+	</div>
+	<div class="col-sm-12 col-md-10">
+		<h3>Everyone</h3>
+		<h2>Common Readings</h2>
+		<p class="abstract">
+		<ul>
+		<li>Lock, Gary. "<a href="http://site.ebrary.com/lib/unma/reader.action?ppg=108&docID=10767195&tm=1447282816201">Representations of Space and Place in the Humanities</a>. In <i>The Spatial Humanities: GIS and the Future of Humanities Scholarship</i>. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 89–108. Bloomington: Indiana University Press, 2010.</li>
+		<li>Gupta, Akhil, and James Ferguson. "<a href="Gupta_Ferguson.pdf">Beyond 'Culture': Space, Identity, and the Politics of Difference</a>." In <i>Culture, Power, Place: Explorations in Critical Anthropology</i>. Edited by Akhil Gupta and James Ferguson, 33–51. Durham: Duke University Press, 1997.</li>
+		</ul>
+		</p>
+	</div>
+	<div class="col-md-0">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h3>16 October</h3>
+		<h3>1:00</h3>
+	</div>
+	<div class="col-sm-12 col-md-10">
+		<h3>Everyone</h3>
+		<h2>Common Readings</h2>
+		<p class="abstract">
+		The first two readings are broad discussions of spatial humanities, while the last one is a particular case study. For the Blevins reading, be sure to check out the online component, which has a detailed explanation of the interactive maps that accompany the article.
+		<ul>
+		<li>Ayers, Edward L. "<a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_1">Turning toward Place, Space, and Time</a>." In <i>The Spatial Humanities: GIS and the Future of Humanities Scholarship</i>. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 1–13. Bloomington: Indiana University Press, 2010.</li>
+		<li>Bodenhamer, David. "<a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=642395&site=eds-live&scope=site&ebv=EB&ppid=pp_14">The Potential of Spatial Humanities</a>." In <i>The Spatial Humanities: GIS and the Future of Humanities Scholarship</i>. Edited by David Bodenhamer, John Corrigan and Trevor M. Harris, 14–30. Bloomington: Indiana University Press, 2010. ))</li>
+		<li>Blevins, Cameron. "<a href="http://jah.oxfordjournals.org/content/101/1/122.full?ijkey=unucsImiwNrelaF&keytype=ref">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>." <i>Journal of American History</i> 101, no. 1 (2014): 122–147. Don't forget the <a href="http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93">online component</a>.</li>
+		</ul>
+		</p>
+	</div>
+	<div class="col-md-0">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+</div>

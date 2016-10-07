@@ -1,99 +1,166 @@
-/*****************************************************************************/
-/*
-/* Digital Mapping Syllabus
-/* Full-screen; large images as breaks; large red bands; dark gray background; 
-/*
-/*****************************************************************************/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,500,700,900);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300,500);
 
-@import url(http://fonts.googleapis.com/css?family=Lato:100,400,700);
-@import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
-@import url(http://fonts.googleapis.com/css?family=Amaranth:400,700);
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,700);
-
+@media (min-width: 992px) 
+{
+/*  .container {max-width:60em;} */
+}
 
 @media screen {
 
+/* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  background-color: #efefef;
-}
-
-.container {
-width: 40em;
-margin: .3em auto 0em;
-padding:0;
-}
-
-#syllabus-new {
-  font-family: 'Titillium Web', sans-serif;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.4em;
-  text-align: left;
-  font-size: 18px;
-  padding-top:5em;
+  background-color: #fefefe;  
+  font-size: 1.2rem;
 }
 
-#syllabus-new p strong {
-  font-weight: bold;
-  color:#000;
+.jumbotron {
+padding-top:6em;
+padding-bottom:4em;
+margin-bottom: 4em;
 }
 
-#syllabus-new p {
-  line-height: 1.5em;
+.navbar {
+  text-transform:all;
+}
+
+.navbar-brand {
+  line-height: 2.6em;
+}
+
+.nogrid {
+max-width: 45em;
+}
+
+.abstract {
+  text-align: justify;
+  line-height: 1.6em;
+  font-size: .9em
+}
+
+.talk-poster {
   margin-bottom: 2em;
-  font-size: 120%;
+  box-shadow: 3px 3px 5px grey;
 }
 
-
-#syllabus-new h1 {
-font-family: 'Amatic SC', sans-serif;
-font-size: 300%;
-line-height: 1.3em;
-color:#b22;
+p {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6em;
+  margin-bottom: 1.5em;
 }
 
-#syllabus-new h1.bright {
-color:#e00;
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto', sans-serif;
 }
 
-#syllabus-new h2 {
-font-family: 'Amaranth', sans-serif;
-font-size: 150%;
-line-height: 1.3em;
-text-transform: uppercase;
-color:#333;
+h1 {
+  font-weight: 900;
+  margin: 1em 0 .75em 0;  
 }
 
-#syllabus-new h3 {
-font-family: 'Oxygen', sans-serif;
-font-weight: bold;
-color:#666;
-font-size: 140%;
-line-height: 1.3em;
-margin-top: .5em;
-margin-bottom:.5em;
-
+h1.title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color:#fefefe;
+  font-size: 4em;
+  margin-top: 0.2em;
 }
 
-.hidden {
-  overflow-x: hidden; 
-}
-
-#syllabus-new div.highlight {
-  margin: 0;
-  padding: .5em 1em .5em 1em;
-  background: #a00;
-  font-family: 'Lato', sans-serif;
+p.title-text {
+  font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  color:#fff;
+  font-size: 1.4em;
+  color:#eeeeee;
+  line-height: 1.4em;
+}
+
+h1.homeheading {
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+  color:#333333;
+  font-size: 2em;
+  margin-top: 0em;
+  margin-bottom: .5em;
+}
+
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  margin-top: 0em;
+  font-weight: bold;
+  font-size: 1.4em;
+  line-height: 120%;
+  margin: .8em 0 .8em 0;
+}
+
+h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  color:#666;
+  font-size: 1.2em;
+  margin: 0;
+}
+
+h4 {
+  color:#bbb;
 }
 
 
-#syllabus-new div.highlight h2{
-  color:#fff;
-  margin-top:.5em;
+
+hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
-#syllabus-new ul {
-margin-left:2em;
+.nav {
+font-size:120%;
+font-variant: small-caps;
+}
+
+.jumbotron h3 {
+  color:#eee;
+  font-weight: 500;
+}
+
+.home-bar {
+  margin-bottom: 4em;
+}
+
+.row-talk {
+ margin: 3em 0 3em 0;
+ border-bottom: 1px solid #ccc;
+ min-height: 8em;
+}
+
+.highlight {
+  color: #3c8b94;
+}
+
+footer {
+  margin-top:2em;
+  padding: 2em;
+  background-color: #823b3b;
+  color:#ccc;
+  text-align: center; 
+}
+
+a {
+  color: #e10000;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
 }
 
 .section-block {
@@ -142,57 +209,6 @@ background-image: url(/images/digital-mapping-sm/dsc_0052.jpg);
   background-image: url(/images/digital-mapping-sm/Mexico-1700s-the.jpg);
 }
 
-#HiddenMenu {
-    background-color: #000;
-    position: absolute;
-    top: -3em;
-    height:3em;
-    padding:0;
-    margin:0;
-    width:100%;
-
-}
-
-#HoverSpace {
-    //background-color: #aeaeae;
-    overflow: hidden;
-    height: 4em;
-    position:fixed;
-    width:100%;
-    padding:0;
-    margin:0;
-    top:0px;
-}
-
-#HiddenMenu ul {
-  margin:0;
-  padding:0;
-}
-
-#HiddenMenu li {
-  padding-top: .5em;
-}
-
-#HiddenMenu li.title a {
-    //font-size:24px;
-    color:#900;
-  }
-
-#HiddenMenu li.title a:hover {
-    color:#f00;
-  }
-
-#HiddenMenu li a:hover {
-    color:#fff;
-  }
-
-#HiddenMenu li.low a {
-  color:#555;
-  }
-
-#HiddenMenu li.low a:hover {
-  color:#999;
-  }
 
 
 .footer {
@@ -245,115 +261,6 @@ li ul li {
 /*
 /*****************************************************************************/
 @media screen and (max-width: 560px) {
-  
-a {
-  color:#c70;
-}
-
-  .container {
-    width: 32em;
-  }
-
-  nav h1.title {
-    display:none;
-  }
-
-  nav h1.navheader {
-    font-size: 200%;
-  }
-
-  ul.posts span {
-    color:#999;
-    display:block;
-  }
-
-  a {
-    text-decoration: none;
-    border:none;
-  }
-
-  ul.posts li {
-    line-height: 1em;
-    margin-bottom: 1.5em;
-  }
-
-.hometext {
-  font-size: 200%;
-}
-
-  .slide-trigger { display: block; }
-    .no-js .slide-trigger { display: none; }
-  .navigation { display: none; }
-    .no-js .navigation { display: block; }
-  .navigation { margin: 0 15px; }
-  .navigation li { float: none; }
-  .navigation li a { border-bottom: 1px solid #fff; }
-
-#syllabus-new {
-  font-family: 'Lato', sans-serif;
-  width:34em;
-  font-weight: 400;
-  font-size: 100%;
-  color:#aaa;
-  line-height: 1.4em;
-  text-align: left;
-  background-color: #333;
-}
-
-#syllabus-new h2 {
-  font-family: oxygen;
-  font-size:150%;
-  font-weight: bold;
-}
-
-
-.section-photo-break {
-height: 100px;
-background-color: #333;
-background-attachment: scroll;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: auto auto;
-margin:0;
-padding:0;
-}
-
-
-.photo1 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
-}
-
-.photo2 {
-background-image: url(/images/digital-mapping-tiny/txu-pclmaps-topo-nm-albuquerque-1937.jpg);
-}
-
-.photo3 {
-background-image: url(/images/digital-mapping-tiny/5840059.jpg);
-}
-
-.photo4 {
-background-image: url(/images/digital-mapping-tiny/dsc_0052.jpg);
-}
-
-.photo5 {
-  background-image: url(/images/digital-mapping-tiny/1071012.jpg);
-}
-
-.photo6 {
-  background-image: url(/images/digital-mapping-tiny/Mexico-1700s-the.jpg);
-}
-
-
-.section-block {
-width:32em;
-line-height: 1.4em;
-font-size: 100%;
-margin:0em;
-padding: 0 0 1em 1em;
-background: #333;
-color: #aaa;
-}
-
 }
 
 /*****************************************************************************/
