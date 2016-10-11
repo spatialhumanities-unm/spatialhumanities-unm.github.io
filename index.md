@@ -12,7 +12,7 @@ css: spatial-humanities
     <h3>University of New Mexico</h3>
     <h1 class="title">Spatial Humanities<br> <span style="font-size:80%;">Working Group</span></h1>
 
-    <div  class="col-lg-8 col-lg-offset-2">
+    <div  class="">
       <p class="title-text">We provide an informal setting in which students and faculty across the university can meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies. </p>
     </div>
   </div>
@@ -23,7 +23,7 @@ css: spatial-humanities
   
   <div class="row home-bar">
     
-    <div class="col-sm-2" >
+    <div class="col-sm-3 col-lg-2 col-lg-offset-1" >
       <img class="" src="images/paper.png">
     </div>
     
@@ -36,7 +36,7 @@ css: spatial-humanities
 
   <div class="row home-bar">
     
-    <div class="col-sm-2" >
+    <div class="col-sm-3 col-lg-2 col-lg-offset-1" >
       <img class="" src="images/lightbulb.png">
     </div>
 
@@ -50,7 +50,7 @@ css: spatial-humanities
 
   <div class="row home-bar">
   
-    <div class="col-sm-2" >
+    <div class="col-sm-3 col-lg-2 col-lg-offset-1" >
         <img class="" src="images/mix.png">
     </div>
 

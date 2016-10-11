@@ -15,18 +15,19 @@ css: spatial-humanities
 	</div>
 
 	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+	<div class="col-sm-12 text-sm-left col-md-2 text-lg-right">
 		<h4>20<br>
 			September<br>
 			2:00</h4>
 	</div>
-	<div class="col-sm-12 col-lg-7">
-		<h3>Sam Truett, History, UNM</h3>
+	<div class="col-sm-12 col-md-8 col-lg-7">
 		<h2>Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World</h2>
+		<h3>Sam Truett, History, UNM</h3>
+		
 		<p class="abstract">This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.</p>
 	</div>
-	<div class="col-lg-3">
-	  <img src="images/samuel-truett-poster.png" width="100%" class="talk-poster">
+	<div class="col-md-2 col-lg-3">
+	  <img src="images/samuel-truett-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -37,8 +38,9 @@ css: spatial-humanities
 		<h4>18<br>October<br>2:00</h4>
 	</div>
 	<div class="col-sm-12 col-lg-7">
-		<h3>Victor Oneschuck, History, UNM </h3>
 		<h2>Mapping the Andean Cordillera: Land Grants and Timber under Pinochet's Welfare State</h2>
+		<h3>Victor Oneschuck, History, UNM </h3>
+
 		<p class="abstract">From 1962 to 1973 the Chilean government instituted an agrarian reform, during which it distributed fundos (large land tracts) to rural workers. This project examines an indigenous cooperative that received 22 fundos covering approximately 1,063 square miles, only to have them sold under a subsequent military dictatorship in the 1970s and 1980s. In this talk, I examine this struggle, which is frequently framed as class conflict or interethnic conflict, via the environmental and spatial factors that shaped it.</p>
 	</div>
 	<div class="col-lg-3">
@@ -52,8 +54,8 @@ css: spatial-humanities
 		<h4>15<br>November<br>2:00</h4>
 	</div>
 	<div class="col-sm-12 col-lg-7">
-		<h3>Julie Williams, English, UNM</h3>
 		<h2>Creating Space: The Influence of Health and Environment in Literary Walking Philosophies</h2>
+		<h3>Julie Williams, English, UNM</h3>
 		<p class="abstract">Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. </p>
 	</div>
 	<div class="col-lg-3">
@@ -67,11 +69,9 @@ css: spatial-humanities
 
 	<div class="row row-talk">
 	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h3>12 May</h3>
-		<h3>1:00</h3>
+		<h4>12 May<br>1:00</h4>
 	</div>
 	<div class="col-sm-12 col-md-10">
-		<h3>Everyone</h3>
 		<h2>NEH Grant Discussion</h2>
 		<p class="abstract">We'll discuss final ideas for the NEH grant to expand the operations of the Spatial Humanities Working Group. </p>
 	</div>
@@ -87,12 +87,12 @@ css: spatial-humanities
 		<h3>1:00</h3>
 	</div>
 	<div class="col-sm-12 col-lg-7">
-		<h3>Guy McClellan, History, UNM</h3>
 		<h2>Urban in Nature: Yosemite Valley as Metropolis, 1963-1970</h2>
-		<p class="abstract">We will discuss a current writing project of Guy McClellan, a PhD Student in the History Department at UNM. We will pre-circulate this piece for comment and discussion.</p>
+		<h3>Guy McClellan, History, UNM</h3>
+		<p class="abstract">Like many places, Yosemite experienced turmoil during the late 1960s. The Valley became an approximation of city life rather than an alternative to it; complaints about traffic, noise, and air pollution made national news. When park rangers and hippies clashed on July 4, 1970, Yosemite Valley experienced another stereotypically metropolitan milestone: a riot. The Bay Area now threatened the park it helped create. To learn more about Guy's work, check out <a href="http://guymcclellan.net">his website</a>.</p>
 	</div>
 	<div class="col-lg-3">
-	  <img src="images/guy-mcclellan-poster.png" width="100%" class="talk-poster">
+	  <img src="images/guy-mcclellan-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
