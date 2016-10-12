@@ -161,7 +161,8 @@ a {
 
 
 li {
-margin-bottom:.4em;  
+margin-bottom:.4em;
+font-size:1rem;  
 }
 
 li ul li {
@@ -218,6 +219,18 @@ background-image: url(/images/digital-mapping-sm/dsc_0052.jpg);
   body {
     font-size: .8rem;
   }
+
+  h2 {
+   font-size: 1rem; 
+  }
+
+  h3 {
+   font-size: .9rem; 
+  }
+li {
+   font-size: .8rem; 
+}
+
 }
 
 
@@ -273,10 +286,8 @@ div p {
   font-weight: normal;
 }
 
-
 ul li {
   font-family: times;
-  font-weight: normal;
   font-weight: normal;
   font-size:100%;
 }
