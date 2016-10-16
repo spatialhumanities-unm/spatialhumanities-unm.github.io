@@ -64,6 +64,36 @@ css: spatial-humanities
 	</div>
 
 
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>06 December 2:00</h4>
+	</div>
+	<div class="col-sm-8 col-md-8 col-lg-7">
+		<h2>A Tale of Four Cities: Land Tenures, Revolts, and and the Borderland of North American Empires</h2>
+		<h3>Taylor Spence, History, UNM</h3>
+		<p class="abstract">This paper, a part of my forthcoming book, <i>Cataraqui: Possession, Dominion, and Land-Rights in the Borderland of North American Empires, 1783-1848</i>, compares the land tenure regimes of the Hudson and Mohawk Rivers Valleys of New York and the St. Lawrence and Richelieu River Valleys of Quebec over the <i>longue duree</i>, and up to 1837-1839, when both regions erupted into armed conflict. The paper questions the role that these tenures played in the revolts, and particularly how they grew out of and reflected the borderland dynamic and geomorphology of the region.</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>13 December 2:00</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h2>Teaching with Maps Workshop</h2>
+		<p class="abstract">Our final meeting for Fall 2016 will be a workshop that explores effective ways to integrate digital mapping assignments in the classroom. In particular, we will explore how to take a set of historical sources with geographic information (in this case, death certificates) and create maps that visualize them. We will work through the process of allowing students to collaboratively create a simple database that holds relevant data from historical sources, how to represent that data on a map with free mapping tools, and techniques for examining change over time via these maps. No technical skill or experience is required!</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+
 	<h1>Previous Meetings (2015-16)</h1>
 
 
