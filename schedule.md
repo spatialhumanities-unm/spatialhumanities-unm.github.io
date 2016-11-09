@@ -59,7 +59,7 @@ css: spatial-humanities
 		<p class="abstract">Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. </p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
+	  <img src="julie-williams-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
