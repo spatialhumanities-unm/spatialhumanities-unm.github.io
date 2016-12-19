@@ -8,29 +8,112 @@ css: spatial-humanities
 <div class="container">
 
 	<div class="row">
-		<h1>Upcoming Meetings (Fall 2016)</h1>
-		<p>We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. While we encourage everyone to participate in the conversation, you are more than welcome to simply hang out and listen!
+		<h1>Working Group Meetings</h1>
+		<p>We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. While we encourage everyone to participate in the conversation, you are more than welcome to simply hang out and listen!</p>
 
-		Most meetings are scheduled for the third Tuesday of every month from 2-3pm.</p>
+		<p>Most meetings are scheduled for the third Wednesday of every month from 2-3pm.</p>
+	</div>
+
+
+	<div class="row">
+		<h1>Spring 2017</h1>
 	</div>
 
 	<div class="row row-talk">
 	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>20
-			September
-			2:00</h4>
+		<h4>25 January 2:00</h4>
 	</div>
-	<div class="col-sm-8 col-md-8 col-lg-7">
-		<h2>Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World</h2>
-		<h3>Sam Truett, History, UNM</h3>
-		
-		<p class="abstract">This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.</p>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h3>Jackie Kramer, Latin American Studies / GES</h3>
+		<p class="abstract"></p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/samuel-truett-poster.jpg" width="100%" class="talk-poster">
+	  <img src="" width="100%" class="talk-poster">
 	</div>
 	</div>
 
+<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>22 February 2:00</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h3>Joni Palmer, GES</h3>
+		<p class="abstract"></p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>29 March 2:00</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h3>Chris Duvall, GES</h3>
+		<p class="abstract"></p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>21 April 2:00</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h3>Nich Bauch, University of Oklahoma</h3>
+		<p class="abstract"></p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>03 May 2:00</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h3>Taylor Spence, History</h3>
+		<p class="abstract"></p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+<h1>Previous Meetings (Fall 2016)</h1>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>13 December 2:00</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h2>Teaching with Maps Workshop</h2>
+		<p class="abstract">Our final meeting for Fall 2016 will be a workshop that explores effective ways to integrate digital mapping assignments in the classroom. In particular, we will explore how to take a set of historical sources with geographic information (in this case, death certificates) and create maps that visualize them. We will work through the process of allowing students to collaboratively create a simple database that holds relevant data from historical sources, how to represent that data on a map with free mapping tools, and techniques for examining change over time via these maps. No technical skill or experience is required!</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="images/analog-to-digital-workshop.jpg" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>15 November 2:00</h4>
+	</div>
+	<div class="col-sm-8 col-md-8 col-lg-7">
+		<h2>Creating Space: The Influence of Health and Environment in Literary Walking Philosophies</h2>
+		<h3>Julie Williams, English, UNM</h3>
+		<p class="abstract">Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. </p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+	  <img src="images/julie-williams-poster.jpg" width="100%" class="talk-poster">
+	</div>
+	</div>
 
 
 	<div class="row row-talk">
@@ -51,49 +134,23 @@ css: spatial-humanities
 
 	<div class="row row-talk">
 	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>15 November 2:00</h4>
+		<h4>20 September 2:00</h4>
 	</div>
 	<div class="col-sm-8 col-md-8 col-lg-7">
-		<h2>Creating Space: The Influence of Health and Environment in Literary Walking Philosophies</h2>
-		<h3>Julie Williams, English, UNM</h3>
-		<p class="abstract">Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. </p>
+		<h2>Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World</h2>
+		<h3>Sam Truett, History, UNM</h3>
+		
+		<p class="abstract">This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/julie-williams-poster.jpg" width="100%" class="talk-poster">
+	  <img src="images/samuel-truett-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
-
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>13 December 2:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h2>Teaching with Maps Workshop</h2>
-		<p class="abstract">Our final meeting for Fall 2016 will be a workshop that explores effective ways to integrate digital mapping assignments in the classroom. In particular, we will explore how to take a set of historical sources with geographic information (in this case, death certificates) and create maps that visualize them. We will work through the process of allowing students to collaboratively create a simple database that holds relevant data from historical sources, how to represent that data on a map with free mapping tools, and techniques for examining change over time via these maps. No technical skill or experience is required!</p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
 
 
 
 	<h1>Previous Meetings (2015-16)</h1>
-
-
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>12 May 1:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h2>NEH Grant Discussion</h2>
-		<p class="abstract">We'll discuss final ideas for the NEH grant to expand the operations of the Spatial Humanities Working Group. </p>
-	</div>
-	<div class="col-sm-0">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
 
 
 	<div class="row row-talk">
@@ -148,20 +205,6 @@ css: spatial-humanities
 	</div>
 	</div>
 
-
-
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>04 February 1:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h2>NEH Application Discussion</h2>
-		<p class="abstract">We will discuss our long-term plans for the working group and spatial humanities at UNM. In particular, we will discuss a Humanities Initiatives at Hispanic-Serving Institutions (HI-HSI) application that we are preparing to submit to the National Endowment for the Humanities (NEH) in June 2016.</p>
-	</div>
-	<div class="col-md-0">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
 
 
 	<div class="row row-talk">
