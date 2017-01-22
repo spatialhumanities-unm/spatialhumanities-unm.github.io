@@ -24,8 +24,11 @@ css: spatial-humanities
 		<h4>25 January 2:00</h4>
 	</div>
 	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h2>Development in the Ecuadorian Amazon: A Challenge to Food Sovereignty</h2>
 		<h3>Jackie Kramer, Latin American Studies / GES</h3>
-		<p class="abstract"></p>
+		<p class="abstract">
+This paper addresses the environmental history of the western Amazon and its effects on the land-use practices and cultural identity of the Quichua people in Ecuador. Since the nineteenth century, two major events caused significant and rapid change on the area. First was the discovery of rubber and the subsequent rubber boom, which displaced the indigenous inhabitants as they escaped from the illegal enslavement and violence caused by the rubber barons. Second was the discovery of petroleum and its extraction, which continues to be a controversial and contentious issue. State dependency on oil extraction has placed the burden of financing social welfare programs on the lands of the indigenous peoples inhabiting the oil-rich Amazon, without benefiting those living on the land. I argue that development related to oil extraction threatens the rights to food sovereignty of the Amazonian Quichua people, and other indigenous people of the Amazon. This paper builds upon my thesis project, which examines the relationship between the constitutional right to food sovereignty in Ecuador and local food practices among the Quichua of the Ecuadorian Amazon.
+		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
 	  <img src="" width="100%" class="talk-poster">
@@ -139,7 +142,7 @@ css: spatial-humanities
 	<div class="col-sm-8 col-md-8 col-lg-7">
 		<h2>Crossing Borders, Tangling Tales: A New Spatial History of the Nineteenth-century World</h2>
 		<h3>Sam Truett, History, UNM</h3>
-		
+
 		<p class="abstract">This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
@@ -179,7 +182,7 @@ css: spatial-humanities
 		<li>Foucault, Michel. 2007. <a href="http://libproxy.unm.edu/login?url=http://site.ebrary.com/lib/unma/reader.action?ppg=176&docID=10211083&tm=1455751585105)">The language of space</a> In <i>Space, Knowledge and Power</i>, edited by Jeremy W. Crampton and Stuart Elden, 163-168. Surrey: Ashgate.</li>
 
 		<li>Foucault, Michel. 1986. "<a href="http://libproxy.unm.edu/login?url=http://search.proquest.com/docview/1297883411/fulltext/B3C31C2C219B418FPQ/1?accountid=14613">Of other spaces</a>. <i>Diacritics</i> 16 (1):22-27.</li>
-		
+
 		<li>Soja, Edward W. 1995. <a href="Soja-Heterotopologies.pdf">Heterotopologies: a remembrance of other spaces in the citadel-LA</a>. In <i>Postmodern Cities and Spaces</i>, edited by Sophie Watson and Katherine Gibson, 13-34. Oxford: Blackwell.</li>
 		</ul>
 		</p>
