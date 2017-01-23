@@ -31,7 +31,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
+	  <img src="images/jackie-kramer-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
