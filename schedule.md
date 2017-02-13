@@ -40,8 +40,11 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<h4>22 February 2:00</h4>
 	</div>
 	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h3>Joni Palmer, GES</h3>
-		<p class="abstract"></p>
+		<h2>Landscape Forensics</h2>
+		<h3>Joern Langhorst (UC-Denver) and Joni M. Palmer (UNM)</h3>
+		<p class="abstract">
+			Landscape forensics attempts to create a framework for multivalent, dissonant, dialogic, experimental and reflexive practices and theories. It suggests to deliberately and critically employ and assemble multiple practices, methods, media and interpretive frameworks, including the incorporation of local and non-expert knowledge. The goal is a thicker, deeper, slower and more expansive "read" that reveals the hidden, invisible and unseen, as well as allowing to make new connections within and across layers habitually separated by traditional analytical processes. These "reads" then may reveal multiple simultaneous perspectives, contestations, and conflicts over time beyond past and current hegemonies of action and interpretation, critical and central to understanding the various actors, processes, materials and agents in the production and reproduction of landscape, place and space.
+		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
 	  <img src="" width="100%" class="talk-poster">
