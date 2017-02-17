@@ -16,8 +16,72 @@ css: spatial-humanities
 
 
 	<div class="row">
-		<h1>Spring 2017</h1>
+		<h1>Spring 2017: Upcoming Events</h1>
 	</div>
+
+	<div class="row row-talk">
+		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+			<h4>22 February 2:00</h4>
+		</div>
+		<div class="col-sm-12 col-md-11 col-lg-7">
+			<h2>Landscape Forensics</h2>
+			<h3>Joern Langhorst (UC-Denver) and Joni M. Palmer (UNM)</h3>
+			<p class="abstract">
+				Landscape forensics attempts to create a framework for multivalent, dissonant, dialogic, experimental and reflexive practices and theories. It suggests to deliberately and critically employ and assemble multiple practices, methods, media and interpretive frameworks, including the incorporation of local and non-expert knowledge. The goal is a thicker, deeper, slower and more expansive "read" that reveals the hidden, invisible and unseen, as well as allowing to make new connections within and across layers habitually separated by traditional analytical processes. These "reads" then may reveal multiple simultaneous perspectives, contestations, and conflicts over time beyond past and current hegemonies of action and interpretation, critical and central to understanding the various actors, processes, materials and agents in the production and reproduction of landscape, place and space.
+			</p>
+		</div>
+		<div class="col-sm-4 col-md-4 col-lg-3">
+		  <img src="/images/palmer-poster.png" width="100%" class="talk-poster">
+		</div>
+		</div>
+
+
+		<div class="row row-talk">
+		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+			<h4>29 March 2:00</h4>
+		</div>
+		<div class="col-sm-12 col-md-11 col-lg-7">
+			<h3>Chris Duvall, GES</h3>
+			<p class="abstract"></p>
+		</div>
+		<div class="col-sm-4 col-md-4 col-lg-3">
+			<img src="" width="100%" class="talk-poster">
+		</div>
+		</div>
+
+
+		<div class="row row-talk">
+		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+			<h4>21 April 2:00</h4>
+		</div>
+		<div class="col-sm-12 col-md-11 col-lg-7">
+			<h3>Nich Bauch, University of Oklahoma</h3>
+			<p class="abstract"></p>
+		</div>
+		<div class="col-sm-4 col-md-4 col-lg-3">
+			<img src="" width="100%" class="talk-poster">
+		</div>
+		</div>
+
+
+		<div class="row row-talk">
+		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+			<h4>03 May 2:00</h4>
+		</div>
+		<div class="col-sm-12 col-md-11 col-lg-7">
+			<h3>Taylor Spence, History</h3>
+			<p class="abstract"></p>
+		</div>
+		<div class="col-sm-4 col-md-4 col-lg-3">
+			<img src="" width="100%" class="talk-poster">
+		</div>
+		</div>
+
+
+		<div class="row">
+			<h1>Spring 2017: Previous Events</h1>
+		</div>
+
 
 	<div class="row row-talk">
 	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
@@ -31,64 +95,12 @@ This paper addresses the environmental history of the western Amazon and its eff
 		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/jackie-kramer-poster.jpg" width="100%" class="talk-poster">
+	  <img src="/images/jackie-kramer-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
-<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>22 February 2:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h2>Landscape Forensics</h2>
-		<h3>Joern Langhorst (UC-Denver) and Joni M. Palmer (UNM)</h3>
-		<p class="abstract">
-			Landscape forensics attempts to create a framework for multivalent, dissonant, dialogic, experimental and reflexive practices and theories. It suggests to deliberately and critically employ and assemble multiple practices, methods, media and interpretive frameworks, including the incorporation of local and non-expert knowledge. The goal is a thicker, deeper, slower and more expansive "read" that reveals the hidden, invisible and unseen, as well as allowing to make new connections within and across layers habitually separated by traditional analytical processes. These "reads" then may reveal multiple simultaneous perspectives, contestations, and conflicts over time beyond past and current hegemonies of action and interpretation, critical and central to understanding the various actors, processes, materials and agents in the production and reproduction of landscape, place and space.
-		</p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
 
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>29 March 2:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h3>Chris Duvall, GES</h3>
-		<p class="abstract"></p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
 
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>21 April 2:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h3>Nich Bauch, University of Oklahoma</h3>
-		<p class="abstract"></p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
-
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>03 May 2:00</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h3>Taylor Spence, History</h3>
-		<p class="abstract"></p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="" width="100%" class="talk-poster">
-	</div>
-	</div>
 
 
 <h1>Previous Meetings (Fall 2016)</h1>
@@ -103,7 +115,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<p class="abstract">Our final meeting for Fall 2016 will be a workshop that explores effective ways to integrate digital mapping assignments in the classroom. In particular, we will explore how to take a set of historical sources with geographic information (in this case, death certificates) and create maps that visualize them. We will work through the process of allowing students to collaboratively create a simple database that holds relevant data from historical sources, how to represent that data on a map with free mapping tools, and techniques for examining change over time via these maps. No technical skill or experience is required!</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/analog-to-digital-workshop.jpg" width="100%" class="talk-poster">
+	  <img src="/images/analog-to-digital-workshop.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -117,7 +129,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<p class="abstract">Montana author Mary MacLane's “peripatetic philosophy” was influenced by the expansiveness of the Montana landscape in her early work, leading to the radicalism she expressed in her youth. Yet this relationship to the landscape and her hometown, and in turn the social critique offered in her philosophy, changes over the course of her life. Her philosophy is forcefully articulated in The Story of Mary MacLane (1902), but the ideas she championed as a young woman are presented much more cynically in her later work, a change that I argue can be connected to an illness she experienced in 1910 from which she never fully recovered, leaving her unable to traverse both her inner and outer landscapes. Her relationship with Montana and the iconic Western landscape is complex, as her childhood and young adult years spent in Butte produced not only feelings of loneliness and isolation, but also a sense of freedom from the restrictions normally placed upon women in the early twentieth century. </p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/julie-williams-poster.jpg" width="100%" class="talk-poster">
+	  <img src="/images/julie-williams-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -133,7 +145,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<p class="abstract">From 1962 to 1973 the Chilean government instituted an agrarian reform, during which it distributed fundos (large land tracts) to rural workers. This project examines an indigenous cooperative that received 22 fundos covering approximately 1,063 square miles, only to have them sold under a subsequent military dictatorship in the 1970s and 1980s. In this talk, I examine this struggle, which is frequently framed as class conflict or interethnic conflict, via the environmental and spatial factors that shaped it.</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/victor-oneschuck-poster.jpg" width="100%" class="talk-poster">
+	  <img src="/images/victor-oneschuck-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -149,7 +161,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<p class="abstract">This talk focuses on the entanglements of a nineteenth-century English sailor who drifted through maritime Southeast Asia to become a peasant villager in northern Mexico.  I use his story to anchor a nomadic, multi-scale, open-ended view of world history that transcends large-scale containers of empires, nations, and world systems.</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/samuel-truett-poster.jpg" width="100%" class="talk-poster">
+	  <img src="/images/samuel-truett-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -169,7 +181,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<p class="abstract">Like many places, Yosemite experienced turmoil during the late 1960s. The Valley became an approximation of city life rather than an alternative to it; complaints about traffic, noise, and air pollution made national news. When park rangers and hippies clashed on July 4, 1970, Yosemite Valley experienced another stereotypically metropolitan milestone: a riot. The Bay Area now threatened the park it helped create. To learn more about Guy's work, check out <a href="http://guymcclellan.net">his website</a>.</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/guy-mcclellan-poster.jpg" width="100%" class="talk-poster">
+	  <img src="/images/guy-mcclellan-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -207,7 +219,7 @@ This paper addresses the environmental history of the western Amazon and its eff
 		<p class="abstract">The integration of the American West during late nineteenth century was one of the largest reorganizations of land, resources, and people in American history. How did this integrative project take place so quickly across such a massive area of territory? "The Postal West" uses digital mapping to advance a new spatial synthesis of regional development, one that unfolded across the underlying infrastructure of the U.S. Post. Workshop participants will read and comment on a pre-circulated chapter from this ongoing book project.</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-	  <img src="images/cameron-blevins-poster.jpg" width="100%" class="talk-poster">
+	  <img src="/images/cameron-blevins-poster.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
 
