@@ -18,7 +18,7 @@ css: spatial-humanities
 	<div class="row">
 		<h1>Spring 2017: Upcoming Events</h1>
 	</div>
-
+<!--
 	<div class="row row-talk">
 		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
 			<h4>22 February 2:00</h4>
@@ -34,7 +34,7 @@ css: spatial-humanities
 		  <img src="/images/palmer-poster.png" width="100%" class="talk-poster">
 		</div>
 		</div>
-
+-->
 
 		<div class="row row-talk">
 		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
