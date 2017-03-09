@@ -41,8 +41,11 @@ css: spatial-humanities
 			<h4>29 March 2:00</h4>
 		</div>
 		<div class="col-sm-12 col-md-11 col-lg-7">
+			<h2>"Making Dagga" and other challenges of broad-scale, descriptive research in historical geography</h2>
 			<h3>Chris Duvall, GES</h3>
-			<p class="abstract"></p>
+			<p class="abstract">
+			For a short abstract: In this presentation, I will discuss my research on the history of cannabis, smoking pipes, and tobacco in Africa.  This research is based on a range of sources, including historical documents as well as biogeographic and language data.  I will focus on the challenges of building a geo-database of relevant terms in African languages, which I am using to build descriptive knowledge of historic plant uses.  Some challenges arise from the characteristics of the sources I’m using, others from the difficulty of defining and locating ethnolinguistic groups, and others from how knowledge is produced through geographically nested research designs.
+			</p>
 		</div>
 		<div class="col-sm-4 col-md-4 col-lg-3">
 			<img src="" width="100%" class="talk-poster">
