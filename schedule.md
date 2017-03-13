@@ -48,7 +48,7 @@ css: spatial-humanities
 			</p>
 		</div>
 		<div class="col-sm-4 col-md-4 col-lg-3">
-			<img src="" width="100%" class="talk-poster">
+			<img src="duvall-poster-sm.jpg" width="100%" class="talk-poster">
 		</div>
 		</div>
 
