@@ -22,7 +22,7 @@ css: spatial-humanities
 
 		<div class="row row-talk">
 		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-			<h4>21 April 2:00</h4>
+			<h4>21 April 12:00</h4>
 		</div>
 		<div class="col-sm-12 col-md-11 col-lg-7">
 			<h3>Nicholas Bauch, University of Oklahoma</h3>
