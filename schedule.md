@@ -22,6 +22,27 @@ css: spatial-humanities
 
 		<div class="row row-talk">
 		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+			<h4>03 May 2:00</h4>
+		</div>
+		<div class="col-sm-12 col-md-11 col-lg-7">
+			<h2>"Etinoʹëh": Pathways and Boundaries of a Pre-Colonial Landscape</h2>
+			<h3>Taylor Spence, History</h3>
+			<p class="abstract">
+				This paper, the first chapter of my forthcoming book, <i>Cataraqui: Possession, Dominion, and Land-Rights in the Borderland of North American Empires, 1783-1848</i>, argues that the geomorphology of a landscape that would, with the arrival of Europeans, later become a highly contested Early American borderland, ought to be considered a player in colonial politics. It traces the layers of pathways and boundaries that made up this space, and then demonstrates how one Indigenous culture, the Hodinöhsö:ni’ (Iroquois) adapted to it, just as later colonizers would be forced to as well.   
+			</p>
+		</div>
+		<div class="col-sm-4 col-md-4 col-lg-3">
+			<img src="spence-poster-sm.jpg" width="100%" class="talk-poster">
+		</div>
+		</div>
+
+
+		<div class="row">
+			<h1>Spring 2017: Previous Events</h1>
+		</div>
+
+		<div class="row row-talk">
+		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
 			<h4>21 April 12:00</h4>
 		</div>
 		<div class="col-sm-12 col-md-11 col-lg-7">
@@ -35,25 +56,6 @@ css: spatial-humanities
 		</div>
 		</div>
 
-
-		<div class="row row-talk">
-		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-			<h4>03 May 2:00</h4>
-		</div>
-		<div class="col-sm-12 col-md-11 col-lg-7">
-			<h3>Taylor Spence, History</h3>
-			<p class="abstract">
-			</p>
-		</div>
-		<div class="col-sm-4 col-md-4 col-lg-3">
-			<img src="" width="100%" class="talk-poster">
-		</div>
-		</div>
-
-
-		<div class="row">
-			<h1>Spring 2017: Previous Events</h1>
-		</div>
 
 		<div class="row row-talk">
 		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
