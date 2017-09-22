@@ -11,13 +11,85 @@ css: spatial-humanities
 		<h1>Working Group Meetings</h1>
 		<p>We meet in Mesa Vista Hall 1104 (History Department Common Room) for about an hour, but feel free to arrive late or leave early as your schedule permits. While we encourage everyone to participate in the conversation, you are more than welcome to simply hang out and listen!</p>
 
-		<p>Most meetings are scheduled for the third Wednesday of every month from 2-3pm.</p>
+		<p>Exact dates are listed below, but most meetings are scheduled on Wednesdays from 3:30-5pm.</p>
 	</div>
 
 
 	<div class="row">
-		<h1>Spring 2017: Upcoming Events</h1>
+		<h1>Fall 2017: Upcoming Events</h1>
 	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>27 Sep 3:30</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>
+		<h3>Nathaniel Millett, History, St. Louis University</h3>
+		<p class="abstract">
+			Despite much of popular and scholarly opinion, the early modern and nineteenth century Caribbean was a tri-racial world in which native people played a prominent role alongside Europeans and Africans. This paper focuses on the role played by indigenous people in mid-seventeenth century English efforts to colonize portions of the Caribbean basin. In some cases this involved war and geopolitical machinations as English, French, Kalinagos, and Africans struggled for control of different islands. On other occasions English settlers and native people, such as the Miskitos of Central America, sought to construct relationships that were mutually beneficial. Within English colonies, many free, enslaved, and visiting native people lived and labored. This native presence within English colonies shaped laws, material culture, foodways, folk traditions, economics, and health practices. Ultimately, the early modern and nineteenth century Caribbean must be understood as a space inhabited and shaped by indigenous people to an extent that most modern observers have failed to appreciate fully.   
+		</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+		<img src="images/millett-poster-sm.jpg" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>25 Oct 3:30</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<!--<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>-->
+		<h3>Subhankar Banerjee, Art History, UNM</h3>
+		<p class="abstract">
+		</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+		<!--<img src="images/millet-poster-sm.jpg" width="100%" class="talk-poster">-->
+	</div>
+	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>15 Nov 3:30</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<!--<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>-->
+		<h3>Maria Lane, Geography and Environmental Studies, UNM</h3>
+		<p class="abstract">
+		</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+		<!--<img src="images/millet-poster-sm.jpg" width="100%" class="talk-poster">-->
+	</div>
+	</div>
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>06 Dec 3:30</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<!--<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>-->
+		<h3>Taylor Spence, History, UNM</h3>
+		<p class="abstract">
+		</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+		<!--<img src="images/millet-poster-sm.jpg" width="100%" class="talk-poster">-->
+	</div>
+	</div>
+
+
+<!--
+	<div class="row">
+		<h1>Fall 2017: Previous Events</h1>
+	</div>
+-->
+
+
+	<h1>Previous Meetings (Spring 2017)</h1>
 
 
 		<div class="row row-talk">
@@ -36,10 +108,6 @@ css: spatial-humanities
 		</div>
 		</div>
 
-
-		<div class="row">
-			<h1>Spring 2017: Previous Events</h1>
-		</div>
 
 		<div class="row row-talk">
 		<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
