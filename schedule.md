@@ -19,35 +19,24 @@ css: spatial-humanities
 		<h1>Fall 2017: Upcoming Events</h1>
 	</div>
 
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>27 Sep 3:30</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>
-		<h3>Nathaniel Millett, History, St. Louis University</h3>
-		<p class="abstract">
-			Despite much of popular and scholarly opinion, the early modern and nineteenth century Caribbean was a tri-racial world in which native people played a prominent role alongside Europeans and Africans. This paper focuses on the role played by indigenous people in mid-seventeenth century English efforts to colonize portions of the Caribbean basin. In some cases this involved war and geopolitical machinations as English, French, Kalinagos, and Africans struggled for control of different islands. On other occasions English settlers and native people, such as the Miskitos of Central America, sought to construct relationships that were mutually beneficial. Within English colonies, many free, enslaved, and visiting native people lived and labored. This native presence within English colonies shaped laws, material culture, foodways, folk traditions, economics, and health practices. Ultimately, the early modern and nineteenth century Caribbean must be understood as a space inhabited and shaped by indigenous people to an extent that most modern observers have failed to appreciate fully.   
-		</p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-		<img src="images/millett-poster-sm.jpg" width="100%" class="talk-poster">
-	</div>
-	</div>
-
 
 	<div class="row row-talk">
 	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
 		<h4>25 Oct 3:30</h4>
 	</div>
 	<div class="col-sm-12 col-md-11 col-lg-7">
-		<!--<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>-->
-		<h3>Subhankar Banerjee, Art History, UNM</h3>
+		<h2>Seminal Texts Series</h2
+		<h3>SHWG members</h3>
 		<p class="abstract">
+		Today we'll discuss a rather old, but still seminal text from biology that has become a core spatial humanities and post-humanist text: Jakob von Uexküll's <i>A Stroll Through the Worlds of Animals and Men</i> (1934). Inga Pollmann credits Uexküll with offering a "radical transformation of perception . . . much in the way that Lewis Carroll's Alice entered Wonderland."
+
+		Filled with pictures and fascinating diagrams (so be not daunted by its length!) Uexküll's "stroll" will provide much food for thought and a stimulating discussion!
+
+		[YOU CAN DOWNLOAD THE PAPER HERE](https://unmm-my.sharepoint.com/personal/tspence_unm_edu/_layouts/15/guestaccess.aspx?docid=1c6500d670b724be69f4c081b7e0a7022&authkey=AVQxyri5yVvrQvX1jU6oBw0)
 		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
-		<!--<img src="images/millet-poster-sm.jpg" width="100%" class="talk-poster">-->
+		<img src="images/uexkull-poster-sm.png" width="100%" class="talk-poster">
 	</div>
 	</div>
 
@@ -90,6 +79,23 @@ css: spatial-humanities
 
 
 	<h1>Previous Meetings (Spring 2017)</h1>
+
+
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>27 Sep 3:30</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>
+		<h3>Nathaniel Millett, History, St. Louis University</h3>
+		<p class="abstract">
+			Despite much of popular and scholarly opinion, the early modern and nineteenth century Caribbean was a tri-racial world in which native people played a prominent role alongside Europeans and Africans. This paper focuses on the role played by indigenous people in mid-seventeenth century English efforts to colonize portions of the Caribbean basin. In some cases this involved war and geopolitical machinations as English, French, Kalinagos, and Africans struggled for control of different islands. On other occasions English settlers and native people, such as the Miskitos of Central America, sought to construct relationships that were mutually beneficial. Within English colonies, many free, enslaved, and visiting native people lived and labored. This native presence within English colonies shaped laws, material culture, foodways, folk traditions, economics, and health practices. Ultimately, the early modern and nineteenth century Caribbean must be understood as a space inhabited and shaped by indigenous people to an extent that most modern observers have failed to appreciate fully.   
+		</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+		<img src="images/millett-poster-sm.jpg" width="100%" class="talk-poster">
+	</div>
+	</div>
 
 
 		<div class="row row-talk">
