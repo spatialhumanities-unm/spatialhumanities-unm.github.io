@@ -25,7 +25,7 @@ css: spatial-humanities
 		<h4>25 Oct 3:30</h4>
 	</div>
 	<div class="col-sm-12 col-md-11 col-lg-7">
-		<h2>Seminal Texts Series</h2
+		<h2>Seminal Texts Series</h2>
 		<h3>SHWG members</h3>
 		<p class="abstract">
 		Today we'll discuss a rather old, but still seminal text from biology that has become a core spatial humanities and post-humanist text: Jakob von Uexküll's <i>A Stroll Through the Worlds of Animals and Men</i> (1934). Inga Pollmann credits Uexküll with offering a "radical transformation of perception . . . much in the way that Lewis Carroll's Alice entered Wonderland."
