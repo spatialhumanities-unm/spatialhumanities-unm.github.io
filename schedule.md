@@ -32,7 +32,7 @@ Today we'll discuss a rather old, but still seminal text from biology that has b
 
 Filled with pictures and fascinating diagrams (so be not daunted by its length!) Uexküll's "stroll" will provide much food for thought and a stimulating discussion!
 
-[DOWNLOAD THE PAPER HERE](https://unmm-my.sharepoint.com/personal/tspence_unm_edu/_layouts/15/guestaccess.aspx?docid=1c6500d670b724be69f4c081b7e0a7022&authkey=AVQxyri5yVvrQvX1jU6oBw0)
+<h3><a href="https://unmm-my.sharepoint.com/personal/tspence_unm_edu/Documents/SHWG/Uexkull.pdf?slrid=a5d1259e-902d-4000-9cf6-ab120a93efdc">DOWNLOAD THE PAPER HERE</a></h3>
 		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
