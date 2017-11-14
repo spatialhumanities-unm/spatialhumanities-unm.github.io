@@ -33,6 +33,10 @@ css: spatial-humanities
 precipitated change throughout the environments of the Keys islands, arguing that its
 main impact lay in spurring new imaginaries of the Keys as environments, as islands, as a
 region, and as a demarcated geopolitical space.
+
+<h3><a href="https://unmm-my.sharepoint.com/personal/tspence_unm_edu/Documents/SHWG/Lane%20-%20Keys%20bridges%20paper.pdf?slrid=fbd82c9e-9075-4000-9cf6-a33e1f261dbe">DOWNLOAD THE PAPER HERE</a></h3>
+
+
 		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
