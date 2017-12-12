@@ -28,13 +28,18 @@ css: spatial-humanities
 		<h2>Hodinöhsö:ni’ Survivance</h2>
 		<h3>Taylor Spence, History, UNM</h3>
 		<p class="abstract">
-		This new research comes out of Dr. Spence's forthcoming book, The Endless Commons: Dominion, Possession, and Land-Rights in the Borderland of North American Empires, 1783-1848 (UVA Press), and with GIS, examines the creative strategies Hodinöhsö:ni’ People developed to defend their sovereignties in the state of New York over the long twentieth-century. 
+		This new research comes out of Dr. Spence's forthcoming book, The Endless Commons: Dominion, Possession, and Land-Rights in the Borderland of North American Empires, 1783-1848 (UVA Press), and with GIS, examines the creative strategies Hodinöhsö:ni’ People developed to defend their sovereignties in the state of New York over the long twentieth-century.
+
+		<h3><a href="https://unmm-my.sharepoint.com/personal/tspence_unm_edu/_layouts/15/guestaccess.aspx?docid=11f9175b3629441ea81e3a12fb7718a74&authkey=AXvduS5kiX0-JwUzyYAKJ0w&e=347e5d01e04147008cac1e101dca6062">DOWNLOAD THE PAPER HERE</a></h3>
+
+
 		</p>
 	</div>
 	<div class="col-sm-4 col-md-4 col-lg-3">
 		<img src="images/spence-2-sm.jpg" width="100%" class="talk-poster">
 	</div>
 	</div>
+
 
 
 
