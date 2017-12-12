@@ -20,6 +20,28 @@ css: spatial-humanities
 	</div>
 
 
+	<div class="row row-talk">
+	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
+		<h4>15 Dec 3:30 @ 2046 Mesa Vista Hall</h4>
+	</div>
+	<div class="col-sm-12 col-md-11 col-lg-7">
+		<h2>Hodinöhsö:ni’ Survivance</h2>
+		<h3>Taylor Spence, History, UNM</h3>
+		<p class="abstract">
+		This new research comes out of Dr. Spence's forthcoming book, The Endless Commons: Dominion, Possession, and Land-Rights in the Borderland of North American Empires, 1783-1848 (UVA Press), and with GIS, examines the creative strategies Hodinöhsö:ni’ People developed to defend their sovereignties in the state of New York over the long twentieth-century. 
+		</p>
+	</div>
+	<div class="col-sm-4 col-md-4 col-lg-3">
+		<img src="images/spence-2-sm.jpg" width="100%" class="talk-poster">
+	</div>
+	</div>
+
+
+
+	<div class="row">
+		<h1>Fall 2017: Previous Events</h1>
+	</div>
+
 
 	<div class="row row-talk">
 	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
@@ -30,11 +52,11 @@ css: spatial-humanities
 		<h3>K. Maria D. Lane, Geography and Environmental Studies, UNM</h3>
 		<p class="abstract">
 		This brief chapter explores some of the ways a mega-engineering railroad project
-precipitated change throughout the environments of the Keys islands, arguing that its
-main impact lay in spurring new imaginaries of the Keys as environments, as islands, as a
-region, and as a demarcated geopolitical space.
+	precipitated change throughout the environments of the Keys islands, arguing that its
+	main impact lay in spurring new imaginaries of the Keys as environments, as islands, as a
+	region, and as a demarcated geopolitical space.
 
-<h3><a href="https://unmm-my.sharepoint.com/personal/tspence_unm_edu/Documents/SHWG/Lane%20-%20Keys%20bridges%20paper.pdf?slrid=fbd82c9e-9075-4000-9cf6-a33e1f261dbe">DOWNLOAD THE PAPER HERE</a></h3>
+	<h3><a href="https://unmm-my.sharepoint.com/personal/tspence_unm_edu/Documents/SHWG/Lane%20-%20Keys%20bridges%20paper.pdf?slrid=fbd82c9e-9075-4000-9cf6-a33e1f261dbe">DOWNLOAD THE PAPER HERE</a></h3>
 
 
 		</p>
@@ -42,27 +64,6 @@ region, and as a demarcated geopolitical space.
 	<div class="col-sm-4 col-md-4 col-lg-3">
 		<img src="images/lane-poster-sm.jpg" width="100%" class="talk-poster">
 	</div>
-	</div>
-
-	<div class="row row-talk">
-	<div class="col-sm-12 text-sm-left col-lg-2 text-lg-right">
-		<h4>06 Dec 3:30</h4>
-	</div>
-	<div class="col-sm-12 col-md-11 col-lg-7">
-		<!--<h2>"Natives, English, and Africans in the mid-seventeenth century Caribbean</h2>-->
-		<h3>Taylor Spence, History, UNM</h3>
-		<p class="abstract">
-		</p>
-	</div>
-	<div class="col-sm-4 col-md-4 col-lg-3">
-		<!--<img src="images/millet-poster-sm.jpg" width="100%" class="talk-poster">-->
-	</div>
-	</div>
-
-
-
-	<div class="row">
-		<h1>Fall 2017: Previous Events</h1>
 	</div>
 
 
