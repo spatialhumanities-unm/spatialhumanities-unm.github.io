@@ -8,6 +8,10 @@
 @media screen {
 
 /* Move down content because we have a fixed navbar text- is 50px tall */
+html {
+  font-size:14px;
+}
+
 body {
   padding-top: 50px;
   font-family: 'Open Sans', sans-serif;
@@ -18,12 +22,10 @@ body {
 
 .month, .time, .place {
   font-family: 'Barlow';
-  font-size: calc( 1.2rem + 24 * ((100vw - 500px) / 1500));
-  line-height: calc( 1.2rem + 24 * ((100vw - 500px) / 1500));
+  font-size: calc( 1rem + 36 * ((100vw - 500px) / 1500));
+  line-height: calc( 1rem + 36 * ((100vw - 500px) / 1500));
   color:#333;
   font-weight:400;
-  text-transform:lowercase;
-  font-variant: small-caps;
   text-transform:uppercase;
 }
 
@@ -35,7 +37,7 @@ body {
 }
 
 .time, .place {
-  margin: 0rem 0 0 0;
+  margin: 0rem 0 .1rem 0;
   font-family: 'Barlow Semi Condensed';
   font-family: 'Barlow Condensed';
   color:#555;
@@ -47,8 +49,8 @@ body {
 
 .day, h2.person {
   font-family: 'Barlow Condensed', sans-serif;
-  font-size: calc( 2.5rem + 48 * ((100vw - 500px) / 1500));
-  line-height: calc( 2.5rem + 48 * ((100vw - 500px) / 1500));
+  font-size: calc( 2.2rem + 60 * ((100vw - 500px) / 1500));
+  line-height: calc( 2.2rem + 60 * ((100vw - 500px) / 1500));
   font-weight:600;
   margin: 0rem 0 .8rem 0;
 }
@@ -137,7 +139,7 @@ p {
   font-family: 'Cabin', sans-serif;
   margin-bottom: 1.5em;
   font-size: calc( 1rem + 18 * ((100vw - 500px) / 1500));
-  line-height:1.5em;
+  line-height:1.4em;
   font-weight:200;
 }
 
