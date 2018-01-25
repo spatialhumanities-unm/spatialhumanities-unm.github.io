@@ -1,0 +1,90 @@
+- title:
+  subtitle:
+  person: Subhankar Banerjee
+  month: February
+  day: "02"
+  year: 2018
+  date: 02-02-2018
+  time: "1:45 - 3:00"
+  place: 1104 Mesa Vista Hall
+  upcoming: true
+  twitter:
+  url: http://www.subhankarbanerjee.org
+  affiliation: University of New Mexico
+  department: Department of Art and Art History
+  person-title: Professor
+  abstract: |
+  paper-link:
+  image-name:
+
+- title:
+  person: Eric Magrane
+  date: 01-03-2018
+  month: March
+  day: "01"
+  year: 2018
+  time: "3:30 - 5:00"
+  place: 1104 Mesa Vista Hall
+  upcoming: false
+  twitter:
+  url: http://ericmagrane.com/
+  affiliation: New Mexico State University
+  department: Department of Geography
+  person-title: Visiting Assistant Professor
+  abstract: |
+  paper-link:
+  image-name:
+
+- title:
+  person: Hsuan Hsu
+  month: March
+  day: 23
+  year: 2018
+  date: 23-03-2018
+  time: "3:30 - 5:00"
+  place: 1104 Mesa Vista Hall
+  upcoming: false
+  twitter:
+  url: http://english.ucdavis.edu/people/hlhsu
+  affiliation: UC-Davis
+  department: Department of English
+  person-title: Professor
+  abstract: |
+  paper-link:
+  image-name:
+
+- title:
+  person: Coll Thrush
+  month: April
+  day: 13
+  year: 2018
+  date: 13-04-2018
+  time: "3:30 - 5:00"
+  place: Waters Room<br>Zimmerman Library
+  upcoming: false
+  twitter:
+  url: http://www.history.ubc.ca/people/coll-thrush
+  affiliation: University of British Colombia
+  department: Department of History
+  person-title: Professor
+  abstract: |
+  paper-link:
+  image-name:
+
+- title: GIS Roundtable
+  person: GIS Roundtable
+  month: May
+  day: 11
+  year: 2018
+  date: 11-05-2018
+  time: "3:30 - 5:00"
+  place: Waters Room<br>Zimmerman Library
+  upcoming: false
+  twitter:
+  url:
+  affiliation:
+  department:
+  person-title:
+  abstract: |
+  paper-link:
+  image-name:

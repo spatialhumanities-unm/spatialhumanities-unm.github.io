@@ -6,58 +6,65 @@ css: spatial-humanities
 ---
 
 
+<div class="jumbotron jumbotron-fluid main">
+<div class="container">
+    <h1 class="title">Spatial<br>Humanities<br>Working<br>Group</h1>
+</div>
+</div>
 
-<div class="jumbotron">
-  <div class="container text-center">
-    <h3>University of New Mexico</h3>
-    <h1 class="title">Spatial Humanities<br> <span style="font-size:80%;">Working Group</span></h1>
+<div class="jumbotron jumbotron-fluid narrow" style="background-color:#673d36;">
+<div class="container">
+    <h2 style="color: #eceae5; font-weight:200">University of New Mexico</h2>
+</div>
+</div>
 
-    <div  class="">
-      <p class="title-text">We provide an informal setting in which students and faculty across the university can meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies. </p>
+
+<div class="jumbotron jumbotron-fluid" style="background-color:#9ebe98;">
+<div class="container">
+<h2>We provide an informal setting for students and faculty from different disciplines to meet to discuss theoretical, conceptual, and methodological questions regarding space and human societies.</h2>
+</div>
+</div>
+
+
+
+<div class="jumbotron jumbotron-fluid narrow brown" style="border-top:0px solid #673d36;">
+    <h3 class="homeheading">Engage</h3>
+</div>
+
+  <div class=" home-blurb row home-bar">
+  <div class="container">
+
+  <div class="col-sm-10 offset-sm-1">
+
+      <p class="text-justify">We provide an interdisciplinary space for research feedback, for both students and faculty. Whether conceptualizing a new spatial project or polishing an existing article, our works-in-progress meetings flow naturally from our participants’ interests and provide perspectives from our diverse disciplinary trainings. Works-in-progress also include syllabi! </p>
+    </div>
+
+  </div>
+</div>
+
+  <div class="jumbotron jumbotron-fluid narrow brown">
+    <h3 class="homeheading">Share</h3>
+  </div>
+
+  <div class="row home-bar">
+  <div class="container">
+    <div class="col-sm-10 offset-sm-1">
+
+      <p class="text-justify">By bringing together faculty from several different departments, we are much better able to recognize our mutual areas of overlap (whether geographical, theoretical, methodological, etc.) We use our meetings not only to critique and comment on each others' work, but to build collaborations between participants that will push spatial research in new directions. </p>
     </div>
   </div>
 </div>
 
-
-<div class="container">
-  
-  <div class="row home-bar">
-    
-    <div class="col-sm-3 col-lg-2 col-lg-offset-1" >
-      <img class="" src="images/paper.png">
-    </div>
-    
-    <div class="col-sm-9 col-sm-offset-0">
-      <h1 class="homeheading">Works-in-Progress</h1>
-      <p class="text-justify">We provide an interdisciplinary space for research feedback, for both students and faculty. Whether conceptualizing a new spatial project or polishing an existing article, our works-in-progress meetings flow naturally from our participants’ interests and provide perspectives from our diverse disciplinary trainings. Works-in-progress also include syllabi! </p> 
-    </div>
-
-  </div>
-
-  <div class="row home-bar">
-    
-    <div class="col-sm-3 col-lg-2 col-lg-offset-1" >
-      <img class="" src="images/lightbulb.png">
-    </div>
-
-
-    <div class="col-sm-9 col-sm-offset-0">
-      <h1 class="homeheading">Future Collaborations</h1>
-      <p class="text-justify">By bringing together faculty from several different departments, we are much better able to recognize our mutual areas of overlap (whether geographical, theoretical, methodological, etc.) We use our meetings not only to critique and comment on each others' work, but to build collaborations between participants that will push spatial research in new directions. </p> 
-    </div>
+  <div class="jumbotron jumbotron-fluid narrow brown">
+  <h3 class="homeheading">Expand</h3>
   </div>
 
 
   <div class="row home-bar">
-  
-    <div class="col-sm-3 col-lg-2 col-lg-offset-1" >
-        <img class="" src="images/mix.png">
-    </div>
+  <div class="container">
 
-    <div class="col-sm-9 col-sm-offset-0">
-      <h1 class="homeheading">Humanities + GIS</h1>
-      <p class="text-justify">We deliberately bridge the gap between qualitative approaches to space predominant in the humanities with more technical approaches at the core of GIScience. </p> 
+  <div class="col-sm-10 offset-sm-1">
+      <p class="text-justify">We deliberately bridge the gap between qualitative approaches to space predominant in the humanities with more technical approaches at the core of GIScience. </p>
     </div>
   </div>
-
 </div>
