@@ -4,14 +4,13 @@ title: Spatial Humanities Working Group Schedule
 css: spatial-humanities
 ---
 
-<div class="row">
+<div class="row col-sm-12">
 	<h1>Spring 2018 Events</h1>
 	<p>We usually meet on Fridays from 3:30 to 5, but feel free to arrive late or leave early as your schedule permits. While we encourage everyone to participate in the conversation, you are more than welcome to simply hang out and listen!</p>
 	<p>Many of our events discuss a pre-circulated paper, but don't be afraid to turn up even if you haven't had a chance to read it. When available, links to download the paper should be clearly visible beneath the abstract.</p>
-
 </div>
 
-<div class="row">
+<div class="row col-sm-12">
 	<h1 class="orange">Next Meeting</h1>
 </div>
 
@@ -37,7 +36,7 @@ css: spatial-humanities
 
 </div>
 
-<div class="talk-desc">
+<div class="talk-desc col-sm-8">
 <div class="month">&nbsp;</div>
 
   <h2 class="person">{{event.person}}</h2>
@@ -47,7 +46,7 @@ css: spatial-humanities
 	<h3 class="title">{{event.title}}</h3>
 	<h4 class="subtitle">{{event.subtitle}}</h4>
 
-	<p class="abstract">{{event.abstract}}</p>
+	<p class="abstract">{{event.abstract | markdownify }}</p>
 
 	{% if event.paper-link != nil %}
 	<div class="download"><a href="{{event.paper-link}}">Download the paper here</a></div>
