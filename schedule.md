@@ -29,7 +29,7 @@ css: spatial-humanities
 	<div class="place">{{event.place}}</div>
 
 	{% if event.image-name != nil %}
-		<a href="images/{{event.image-name}}" data-lightbox="image-1" data-title="">
+		<a href="images/{{event.image-name}}" data-lightbox="{{event.person}}" data-title="{{event.person}} poster">
 			<img src="images/{{event.image-name}}" width="100%" class="talk-poster">
 		</a>
 	{% endif %}

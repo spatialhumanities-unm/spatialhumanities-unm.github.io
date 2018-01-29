@@ -230,14 +230,14 @@ h3.title {
   font-weight: 600;
   text-transform: uppercase;
   color:#333;
-  font-size: 1.8em;
-  margin: 0 0 1em 0;
+  font-size: 2rem;
+  margin: 1rem 0 .5rem 0;
 }
 
-h3.subtitle {
+h4.subtitle {
   font-weight: 400;
-  color:#333;
-  font-size: 1.8rem;
+  color:#666;
+  font-size: 1.5rem;
   margin: 0 0 1rem 0;
 }
 
