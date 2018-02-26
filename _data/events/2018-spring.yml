@@ -1,30 +1,3 @@
-- title: Money or Justice?
-  subtitle: Competing Indigenous Claims & the Politics of Oil in the Arctic Refuge
-  person: Subhankar Banerjee
-  month: February
-  day: "02"
-  year: 2018
-  date: 02-02-2018
-  time: "1:45 - 3:00"
-  place: 1104 Mesa Vista Hall
-  upcoming: false
-  twitter:
-  url: http://www.subhankarbanerjee.org
-  affiliation: University of New Mexico
-  department: Department of Art and Art History
-  person-title: Professor
-  abstract: |
-    On December 22, 2017, President Trump signed the GOP Tax Bill, which authorizes oil and gas exploration and development in the coastal plain of the Arctic National Wildlife Refuge, a biological nursery of global significance and a place the indigenous Gwich’in people of northeast Alaska and northwest Canada call, “The Sacred Place Where Life Begins”.
-
-    For millennia, the Gwich’in, who call themselves "the caribou people", have relied upon the Porcupine River caribou herd for nutritional, cultural and spiritual sustenance. Oil drilling in the caribou calving and nursing grounds in the Arctic Refuge coastal plain would be a violation of Gwich’in human rights and will endanger their food security.
-
-    The campaign to create, and then protect the Arctic Refuge, from oil development has been going on for seven decades—the longest environmental conservation and justice campaign in North America. In a book chapter "Long Environmentalism: After the Listening Session," in Ecocriticism and Indigenous Studies: Conservations from Earth to Cosmos (Routledge, 2016), I discuss that campaign. It is also the subject of my [ongoing exhibition at the UNM Art Museum](http://artmuseum.unm.edu/current-exhibitions/long-environmentalism-in-the-near-north-subhankar-banerjee-activism-photographs-writing/). There are two case studies in that chapter, one of which addresses the Arctic Refuge, [which I would urge you to read](http://subhankarbanerjee.org/PDF/long-environmentalism.pdf) as it will serve as a background for our discussion
-
-    On Friday, February 2, I plan to share some of the ideas for a short essay I’m just starting to work on, which will appear in a special issue _Beyond the Extractive View_ in _Social Text Periscope Dossier_. In the piece, I plan to explore two competing claims: (1) the human rights argument of the Gwich’in Nation (as discussed in the “Long Environmentalism” chapter); and, (2) an argument to make money from oil drilling by the "Voice of the Arctic Iñupiat", a corporate-funded pro-oil advocacy organization, which was publicly visible for the first time during a Senate committee hearing on November 2, 2017. Spatial humanities could shed light on this rather unique situation and I’m hoping to get feedback from you all.
-
-    On a related but separate note, I’m convening "[The last oil](https://thelastoil.unm.edu/)---a multispecies symposium on Arctic Alaska and beyond", which will take place on the UNM Main Campus from February 21 through February 23.
-  paper-link: http://subhankarbanerjee.org/PDF/long-environmentalism.pdf)
-  image-name: banerjee-poster-sm.jpg
 
 - title: Climate Geopoetics
   person: Eric Magrane
@@ -51,7 +24,36 @@
 
     If you don't have time to make it through everything, please focus on the four short poems and the "Applying the Geohumanities" article (the last one of the PDF).
   paper-link: http://ericmagrane.com/wp-content/uploads/2018/02/Magrane_Readings_for_SHWG_UNM_march2018.pdf
-  image-name:
+  image-name: magrane-poster-sm.jpg
+
+
+- title: Climate Geopoetics
+  person: Eric Magrane
+  date: 03-01-2018
+  month: March
+  day: "01"
+  year: 2018
+  time: "3:30 - 5:00"
+  place: 1104 Mesa Vista Hall
+  upcoming: true
+  twitter:
+  url: http://ericmagrane.com/
+  affiliation: New Mexico State University
+  department: Department of Geography
+  person-title: Visiting Assistant Professor
+  abstract: |
+    Climate change is often framed in scientific terms. However, it is as much a cultural and social issue as it is a scientific issue. Multiple narratives of climate change exist: for example, some see it as an existential and apocalyptic threat to life on earth or a national security issue; others see it as a social and environmental justice issue and a crisis of capitalism; others see it as a hoax and a ‘Trojan Horse’ for unnecessary regulations.
+
+    In the summer of 2017, I was invited to take part in an Art + Science Climate Communication residency at Playa in Oregon. While there, I began a new series of poems that creatively-critically explore and respond to the multiple narratives of climate change. Specifically, each poem takes as its title a quote on climate change. The quotes/titles represent a variety of voices on the issue, from scientific to literary to social theoretical to spiritual to political. The resulting poems have taken a variety of tones, from matter-of-fact, to hopeful, to outraged, to despairing, to sarcastic/satirical, to combative, to lyric meditation.
+
+    The form of this climate geopoetics project allows me to merge my (geo)poetic practice with my human geography research on environmental and climate narratives. I intend to turn this work into a book that combines the poems with an extended critical essay on climate narratives. On March 1, I will share some of the early poems from this project and some ideas for the shape that the book will take. I look forward to feedback.
+
+    The PDF linked to below includes four of the early poems from the project. As “Climate Geopoetics” builds on my ongoing research/creative practice related to climate change, I am also including in the pdf some background: a few recent book contributions/articles. The first is my contribution to the book _Big Energy Poets: Ecopoetry Things Climate Change_ (Staples & King, eds. BlazeVOX, 2017). Following that are two articles that are currently in press: "Healing, belonging, resistance, and mutual care: Reading Indigenous ecopoetics and climate narratives”, forthcoming in the journal _Literary Geographies_, and “Applying the Geohumanities”, forthcoming in the journal _International Journal of Applied Geospatial Research_.
+
+    If you don't have time to make it through everything, please focus on the four short poems and the "Applying the Geohumanities" article (the last one of the PDF).
+  paper-link: http://ericmagrane.com/wp-content/uploads/2018/02/Magrane_Readings_for_SHWG_UNM_march2018.pdf
+  image-name: magrane-poster-sm.jpg
+
 
 - title:
   person: Hsuan Hsu
@@ -106,3 +108,31 @@
   abstract: |
   paper-link:
   image-name:
+
+- title: Money or Justice?
+  subtitle: Competing Indigenous Claims & the Politics of Oil in the Arctic Refuge
+  person: Subhankar Banerjee
+  month: February
+  day: "02"
+  year: 2018
+  date: 02-02-2018
+  time: "1:45 - 3:00"
+  place: 1104 Mesa Vista Hall
+  upcoming: false
+  twitter:
+  url: http://www.subhankarbanerjee.org
+  affiliation: University of New Mexico
+  department: Department of Art and Art History
+  person-title: Professor
+  abstract: |
+    On December 22, 2017, President Trump signed the GOP Tax Bill, which authorizes oil and gas exploration and development in the coastal plain of the Arctic National Wildlife Refuge, a biological nursery of global significance and a place the indigenous Gwich’in people of northeast Alaska and northwest Canada call, “The Sacred Place Where Life Begins”.
+
+    For millennia, the Gwich’in, who call themselves "the caribou people", have relied upon the Porcupine River caribou herd for nutritional, cultural and spiritual sustenance. Oil drilling in the caribou calving and nursing grounds in the Arctic Refuge coastal plain would be a violation of Gwich’in human rights and will endanger their food security.
+
+    The campaign to create, and then protect the Arctic Refuge, from oil development has been going on for seven decades—the longest environmental conservation and justice campaign in North America. In a book chapter "Long Environmentalism: After the Listening Session," in Ecocriticism and Indigenous Studies: Conservations from Earth to Cosmos (Routledge, 2016), I discuss that campaign. It is also the subject of my [ongoing exhibition at the UNM Art Museum](http://artmuseum.unm.edu/current-exhibitions/long-environmentalism-in-the-near-north-subhankar-banerjee-activism-photographs-writing/). There are two case studies in that chapter, one of which addresses the Arctic Refuge, [which I would urge you to read](http://subhankarbanerjee.org/PDF/long-environmentalism.pdf) as it will serve as a background for our discussion
+
+    On Friday, February 2, I plan to share some of the ideas for a short essay I’m just starting to work on, which will appear in a special issue _Beyond the Extractive View_ in _Social Text Periscope Dossier_. In the piece, I plan to explore two competing claims: (1) the human rights argument of the Gwich’in Nation (as discussed in the “Long Environmentalism” chapter); and, (2) an argument to make money from oil drilling by the "Voice of the Arctic Iñupiat", a corporate-funded pro-oil advocacy organization, which was publicly visible for the first time during a Senate committee hearing on November 2, 2017. Spatial humanities could shed light on this rather unique situation and I’m hoping to get feedback from you all.
+
+    On a related but separate note, I’m convening "[The last oil](https://thelastoil.unm.edu/)---a multispecies symposium on Arctic Alaska and beyond", which will take place on the UNM Main Campus from February 21 through February 23.
+  paper-link: http://subhankarbanerjee.org/PDF/long-environmentalism.pdf)
+  image-name: banerjee-poster-sm.jpg
