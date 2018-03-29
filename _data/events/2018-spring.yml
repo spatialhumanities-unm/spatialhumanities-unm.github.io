@@ -6,7 +6,7 @@
   date: 23-03-2018
   time: "4:00 - 5:00"
   place: 1104 Mesa Vista Hall
-  upcoming: true
+  upcoming: false
   twitter:
   url: http://english.ucdavis.edu/people/hlhsu
   affiliation: UC-Davis
@@ -78,7 +78,7 @@
   date: 13-04-2018
   time: "3:30 - 5:00"
   place: Waters Room<br>Zimmerman Library
-  upcoming: false
+  upcoming: true
   twitter:
   url: http://www.history.ubc.ca/people/coll-thrush
   affiliation: University of British Colombia
