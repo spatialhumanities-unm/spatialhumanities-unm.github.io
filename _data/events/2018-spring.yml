@@ -7,6 +7,7 @@
   time: "4:00 - 5:00"
   place: 1104 Mesa Vista Hall
   upcoming: false
+  next: false
   twitter:
   url: http://english.ucdavis.edu/people/hlhsu
   affiliation: UC-Davis
@@ -29,6 +30,7 @@
   time: "3:30 - 5:00"
   place: 1104 Mesa Vista Hall
   upcoming: false
+  next: false
   twitter:
   url: http://ericmagrane.com/
   affiliation: New Mexico State University
@@ -58,6 +60,7 @@
   time: "3:00 - 4:00"
   place: 105 Bandelier East
   upcoming: false
+  next: false
   twitter:
   url: http://ericmagrane.com/
   affiliation: New Mexico State University
@@ -69,8 +72,8 @@
   image-name: magrane-poster-sm.jpg
 
 
-
-- title: "Rethinking the Centre of Empire: Histories from Indigenous London"
+- title: "Rethinking the Centre of Empire"
+  subtitle: "Histories from Indigenous London"
   person: Coll Thrush
   month: April
   day: 13
@@ -79,6 +82,7 @@
   time: "3:30 - 5:00"
   place: History Common Room<br>1104 Mesa Vista
   upcoming: true
+  next: true
   twitter:
   url: http://www.history.ubc.ca/people/coll-thrush
   affiliation: University of British Colombia
@@ -86,7 +90,10 @@
   person-title: Professor
   abstract: |
     London is famed both as the ancient center of a former empire and as a modern metropolis of bewildering complexity and diversity. In Indigenous London, historian Coll Thrush offers an imaginative vision of the city’s past crafted from an almost entirely new perspective: that of Indigenous children, women, and men who traveled there, willingly or otherwise, from territories that became Canada, New Zealand, Australia, and the United States, beginning in the sixteenth century. They included captives and diplomats, missionaries and shamans, poets and performers. Some, like the Powhatan noblewoman Pocahontas, are familiar; others, like an Odawa boy held as a prisoner of war, have almost been lost to history. By focusing on the city’s imperial entanglements with Indigenous history – entanglements of knowledge, disorder, reason, ritual, discipline, and memory – Thrush shows how London learned to be a global city and how Indigenous people and peoples were central to that process.
-  paper-link:
+  paper-links:
+  - ["Alive from America","readings/Thrush-Alive-from-America.pdf"]
+  - ["City of The Changers","readings/Thrush-City-of-the-Changers.pdf"]
+  - ["Interlude Five","readings/Thrush-Interlude-Five.pdf"]
   image-name:
 
 - title: GIS Roundtable
@@ -97,7 +104,8 @@
   date: 11-05-2018
   time: "3:30 - 5:00"
   place: Waters Room<br>Zimmerman Library
-  upcoming: false
+  upcoming: true
+  next: false
   twitter:
   url:
   affiliation:
@@ -117,6 +125,7 @@
   time: "1:45 - 3:00"
   place: 1104 Mesa Vista Hall
   upcoming: false
+  next: false
   twitter:
   url: http://www.subhankarbanerjee.org
   affiliation: University of New Mexico

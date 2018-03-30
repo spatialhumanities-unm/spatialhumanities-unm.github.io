@@ -16,7 +16,7 @@ css: spatial-humanities
 
 {% for event in site.data.events.2018-spring %}
 
-{% if event.upcoming == true %}
+{% if event.next == true %}
 
 <div class="row row-talk next-meeting">
 
@@ -48,8 +48,10 @@ css: spatial-humanities
 
 	<p class="abstract">{{event.abstract | markdownify }}</p>
 
-	{% if event.paper-link != nil %}
-	<div class="download"><a href="{{event.paper-link}}">Download the paper here</a></div>
+	{% if event.paper-links != nil %}
+		{% for paper in event.paper-links %}
+			<div class="download"><a href="{{paper[1]}}">{{paper[0]}}</a></div>
+		{% endfor %}
 	{% endif %}
 
 </div>
@@ -62,12 +64,12 @@ css: spatial-humanities
 
 
 <div class="row">
-	<h1>Later Events</h1>
+	<h1>Future Events</h1>
 </div>
 
 {% for event in site.data.events.2018-spring %}
 
-{% if event.upcoming == false %}
+{% if event.upcoming == true and event.next == false  %}
 <div class="row row-talk">
 
 <div class="col-xs-12 text-xs-left col-sm-3 col-lg-3 text-lg-right">
@@ -89,6 +91,52 @@ css: spatial-humanities
 </div>
 
 </div> <!-- end row -->
+
+{% endif %}
+{% endfor %}
+
+
+<div class="row">
+	<h1>Previous Events</h1>
+</div>
+
+{% for event in site.data.events.2018-spring %}
+
+{% if event.upcoming == false and event.next == false  %}
+<div class="row row-talk next-meeting">
+
+<div class="col-xs-12 text-xs-left col-sm-3 text-lg-right">
+	<div class="month">{{event.month}}</div>
+	<div class="day">{{event.day}}</div>
+	<div class="weekday">{{event.weekday}}</div>
+
+	<div class="time">{{event.time}}</div>
+	<div class="place">{{event.place}}</div>
+
+	{% if event.image-name != nil %}
+		<a href="images/{{event.image-name}}" data-lightbox="{{event.person}}" data-title="{{event.person}} poster">
+			<img src="images/{{event.image-name}}" width="100%" class="talk-poster">
+		</a>
+	{% endif %}
+
+</div>
+
+<div class="talk-desc col-sm-8">
+<div class="month">&nbsp;</div>
+
+  <h2 class="person">{{event.person}}</h2>
+	<div class="time">{{event.department}}</div>
+	<div class="place">{{event.affiliation}}</div>
+
+	<h3 class="title">{{event.title}}</h3>
+	<h4 class="subtitle">{{event.subtitle}}</h4>
+
+	<p class="abstract">{{event.abstract | markdownify }}</p>
+
+</div>
+
+</div> <!-- end row -->
+
 
 {% endif %}
 {% endfor %}
